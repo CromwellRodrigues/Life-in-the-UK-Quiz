@@ -22,7 +22,7 @@ const allFlashcards = [
   },
   {
     id: 5,
-    question: "Which of the following is a traditional English food?",
+    question: "Which is a traditional English food?",
     answer: "Roast beef is a traditional English food.",
   },
 
@@ -196,8 +196,7 @@ const allFlashcards = [
   },
   {
     id: "32",
-    question:
-      "Which of the following operas was written by Gilbert and Sullivan?",
+    question: "Which operas was written by Gilbert and Sullivan?",
     answer:
       "In the 19th century, Gilbert and Sullivan wrote comic operas, often making fun of popular culture and politics. These operas include HMS Pinafore, The Pirates of Penzance and The Mikado.",
   },
@@ -333,11 +332,11 @@ const allFlashcards = [
   {
     id: "53",
     question: "When did the First World War end?",
-    answer: "When did the First World War end?",
+    answer: "The First World War ended in 1918.",
   },
   {
     id: "54",
-    question: "What are Welsh cakes made of?",
+    question: "What are traditional Welsh cakes made of?",
     answer:
       "Welsh cakes are a traditional Welsh snack made from flour, dried fruits and spices, and served either hot or cold.",
   },
@@ -448,8 +447,7 @@ const allFlashcards = [
   },
   {
     id: "70",
-    question:
-      "Which of the following is the responsibility of the Chancellor of the Exchequer?",
+    question: "What is the responsibility of the Chancellor of the Exchequer?",
     answer: "The Chancellor of the Exchequer is responsible for the economy.",
   },
   {
@@ -558,7 +556,7 @@ const allFlashcards = [
     question:
       "Who defeated Emperor Napoleon at the Battle of Waterloo in 1815?",
     answer:
-      "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo.",
+      "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo. Wellington was known as the Iron Duke and later became Prime Minister.",
   },
   {
     id: "88",
@@ -634,7 +632,8 @@ const allFlashcards = [
   {
     id: "99",
     question: "Who wrote ‘The Lord of the Rings’? ",
-    answer: "The Lord of the Rings was written by JRR Tolkien.",
+    answer:
+      "In 2003, The Lord of the Rings written by JRR Tolkien was voted the country’s best-loved novel..",
   },
   {
     id: "100",
@@ -882,7 +881,7 @@ const allFlashcards = [
     id: "136",
     question: "When did the ‘Habeas Corpus Act’ become law?",
     answer:
-      "The Habeas Corpus Act became law in 1679. It is a law that protects people from being imprisoned without trial.",
+      "The Habeas Corpus Act became law in 1679. This was a very important piece of legislation which remains relevant today. The Act guaranteed that no one could be held prisoner unlawfully. Every prisoner has a right to a court hearing.",
   },
   {
     id: "137",
@@ -946,7 +945,7 @@ const allFlashcards = [
     id: "145",
     question: "What is the role of the Speaker? ",
     answer:
-      " The Speaker keeps order during political debates to make sure the rules are followed.",
+      " The Speaker keeps order during political debates to make sure the rules are followed. Debates in the House of Commons are chaired by the Speaker.",
   },
 
   {
@@ -1008,7 +1007,7 @@ const allFlashcards = [
     id: "154",
     question: "What is the main function of the Council of Europe?",
     answer:
-      "The Council of Europe is responsible for the protection and promotion of human rights in its member countries.",
+      "The Council of Europe is responsible for the protection and promotion of human rights in its member countries. The Council of Europe is separated from the EU. It has 47 member countries, including the UK, ",
   },
 
   {
@@ -1061,8 +1060,7 @@ const allFlashcards = [
   },
   {
     id: "162",
-    question:
-      "Which of the following flags is not represented in the union flag?",
+    question: "Which flag is not represented in the union flag?",
     answer:
       "The Welsh flag does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already untied with England.",
   },
@@ -1157,7 +1155,7 @@ const allFlashcards = [
     question:
       "When did hereditary peers lose the automatic right to attend the House of Lords?",
     answer:
-      "Since 1999, hereditary peers have lost the automatic right to attend the House of Lords.",
+      "Since 1999, hereditary peers have lost the automatic right to attend the House of Lords. They now elect a few of their number to represent them in the House of Lords.",
   },
   {
     id: "178",
@@ -1598,7 +1596,7 @@ const allFlashcards = [
     id: "254",
     question: "How many countries are members of the United Nations?",
     answer:
-      "The UK is part of the United Nations (UN), an international organization with more than 190 countries as members. The UN was set up in 1945 to promote peace and security, and to help countries work together to solve problems.",
+      "The UK is part of the United Nations (UN), an international organization with more than 190 countries as members. The UN was set up in 1945, after the Second World War, and aims to prevent war to promote international peace and security, and to help countries work together to solve problems.",
   },
 
   {
@@ -1657,7 +1655,7 @@ const allFlashcards = [
   {
     id: "263",
     question:
-      "The line ‘all the world’s a stage’ belongs to which of the following plays or poems written by William Shakespeare?",
+      "The line ‘all the world’s a stage’ belongs to which of the plays or poems written by William Shakespeare?",
     answer:
       "All the world’s a stage’ are lines from William Shakespeare’s play As You Like It.",
   },
@@ -1806,6 +1804,481 @@ const allFlashcards = [
     answer: "The Brexit referendum was held on 23 June 2016.",
   },
 
+  {
+    id: "286",
+    question: "Who was known as the Iron Duke?",
+    answer:
+      "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo. Wellington was known as the Iron Duke and later became Prime Minister.",
+  },
+  {
+    id: "287",
+    question: "Who appoints the members of the Cabinet?",
+    answer:
+      "The Prime Minister (PM) is the leader of the political party in power. He or she appoints the members of the cabinet and has control over many important public appointments.",
+  },
+  {
+    id: "288",
+    question: "Is the mobile phone a British invention ?",
+    answer:
+      "The World Wide Web, the Turing machine and the hovercraft are British inventions. The mobile phone is not.",
+  },
+  {
+    id: "289",
+    question: "When did Argentina invade the Falklands Islands?",
+    answer:
+      "In 1982, Argentina invaded the Falkland Islands, a British overseas territory in the South Atlantic.",
+  },
+  {
+    id: "290",
+    question:
+      "County Courts deal with a wide range of civil disputes including family matters, breaches of contract and divorce. True or False?",
+    answer: "True.",
+  },
+  {
+    id: "291",
+    question:
+      "According to 2011 Census, what percentage of the population identified themselves as Sikh?",
+    answer:
+      "In the 2011 Census, 59% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (4.8%), Hindu (1.5%), Sikh (0.8%), Jewish or Buddhist (both less than 0.5%).",
+  },
+  {
+    id: "292",
+    question: "Which  are British overseas territories?",
+    answer:
+      "There are several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not part of it.",
+  },
+  {
+    id: "293",
+    question:
+      "When did Alexander Fleming win the Nobel Prize in medicine for the discovery of the penicillin?",
+    answer:
+      "Fleming won the Nobel Prize in Medicine in 1945 for the discovery of the penicillin.",
+  },
+  {
+    id: "294",
+    question: "What is Sir Jackie Stewart famous for?",
+    answer:
+      "Sir Jackie Stewart is a Scottish former racing driver who won the Formula 1 world championship three times.",
+  },
+  {
+    id: "295",
+    question:
+      "The decade of the 1960s was a period of significant social change, when there was growth in British fashion, cinema and popular music:",
+    answer: "This statement is true.",
+  },
+  {
+    id: "296",
+    question:
+      "When did Britain and France develop the world’s only supersonic commercial airliner known as ‘The Concorde’?",
+    answer:
+      "The 1960s was a time of technological progress, when Britain and France developed the world’s only supersonic commercial airliner, Concorde. It was first flown in 1969 and entered service in 1976.",
+  },
+  {
+    id: "297",
+    question: "Where can you find copies of the ‘Hansard’?",
+    answer:
+      "Proceedings in Parliament are broadcast on television and published in official reports called Hansard. Written reports can be found in large libraries and at www.parliament.uk.",
+  },
+  {
+    id: "298",
+    question: "Which flag has a diagonal white cross on a blue ground?",
+    answer:
+      "The cross of St Andrew, patron saint of Scotland, is a diagonal white cross on a blue ground.",
+  },
+  {
+    id: "299",
+    question: "How long do Muslims fast for during Ramadan?",
+    answer:
+      "Eid a-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month.",
+  },
+  {
+    id: "300",
+    question: "Which British actor has recently won an Oscar?",
+    answer:
+      "Recent British actors to have won Oscars include Colin Firth, Sir Antony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.",
+  },
+  {
+    id: "301",
+    question: "Which was the first major railway built in Britain?",
+    answer:
+      "The Great Western Railway was the first major railway built in Britain. It was built by Isambard Kingdom Brunel and opened in 1838.",
+  },
+  {
+    id: "302",
+    question:
+      "In the 15th century, Henry Tudor, the leader of the House of Lancaster, became:",
+    answer:
+      "In 1485, Henry Tudor, the leader of the House of Lancaster, became King Henry VII after defeating King Richard III of the House of York at the Battle of Bosworth Field.",
+  },
+  {
+    id: "303",
+    question: "How many senior MPs are appointed by the Prime Minister?",
+    answer:
+      "The Prime Minister appoints about 20 senior MPs to become ministers in charge of departments.",
+  },
+  {
+    id: "304",
+    question: "Who won an Olympic gold medal in the pentathlon in 1972?",
+    answer:
+      "Mary Peters was a talented athlete who won an Olympic gold medal in the pentathlon in 1972.",
+  },
+  {
+    id: "305",
+    question: "What is the capital city of Wales?",
+    answer: "The capital city of Wales is Cardiff.",
+  },
+  {
+    id: "306",
+    question: "When did the Roman army leave Britain?",
+    answer:
+      "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned.",
+  },
+  {
+    id: "307",
+    question: "The king is the head of state in the UK: True or False ",
+    answer: "King Charles III is the head of state of the UK.",
+  },
+  {
+    id: "308",
+    question: "How long did the First World War last for?",
+    answer: "The First World War lasted four years (1914 – 1918).",
+  },
+  {
+    id: "309",
+    question: "Who was Henry VII?",
+    answer: "Henry VII was the leader of the House of Lancaster.",
+  },
+  {
+    id: "310",
+    question: "When were the Houses of Parliament built?",
+    answer:
+      "The Houses of Parliament and St Pancras Station were built in the 19th century, as were the town halls in cities such as Manchester and Sheffield.",
+  },
+  {
+    id: "311",
+    question: "How many volunteers work for the National Trust?",
+    answer:
+      "There are now more than 61,000 volunteers helping to keep the National Trust running.",
+  },
+  {
+    id: "312",
+    question: "What was the population of the UK in 1851?",
+    answer: "The population of the UK in 1851 was 20 million people.",
+  },
+
+  {
+    id: "313",
+    question:
+      "The line ‘a rose by any other name’ belongs to which of the plays or poems written by William Shakespeare?",
+    answer:
+      "‘A rose by any other name’ is a line from William Shakespeare’s play Romeo and Juliet.",
+  },
+
+  {
+    id: "314",
+    question: "Which religious community celebrates Vaisakhi?",
+    answer:
+      "Vaisakhi (also spelled Baisakhi) is a Sikh festival which celebrates the founding of the Sikh community known as the Khalsa.",
+  },
+
+  {
+    id: "315",
+    question:
+      "Which British scientist made important discoveries working with steam power?",
+    answer:
+      "James Watt’s work on steam power, helped the progress of the Industrial Revolution.",
+  },
+  {
+    id: "316",
+    question: "How can you visit the Northern Ireland Assembly ",
+    answer:
+      "There are two ways to arrange a visit to the Northern Ireland Assembly at Stormont. You can either contact the Education Service (details are on the Northern Ireland Assembly website at http://www.niassembly.gov.uk) or contact an MLA.",
+  },
+  {
+    id: "317",
+    question: "When was the first television broadcast made?",
+    answer:
+      "In 1932 Scotsman John Logie Baird made the first television broadcast between London and Glasgow.",
+  },
+  {
+    id: "318",
+    question:
+      "For what sort of claims is the small claims procedure in Northern Ireland used for?",
+    answer:
+      "The small claims procedure is used for claims of less than £3,000 in Northern Ireland.",
+  },
+  {
+    id: "319",
+    question:
+      "How many Russian and Polish Jews came to Britain to escape prosecution between 1870 and 1914?",
+    answer:
+      "Between 1870 and 1914, around 120,000 Russian and Polish Jews came to Britain to escape persecution.",
+  },
+  {
+    id: "320",
+    question:
+      "Which Anglo-Saxon poem is about a hero’s battle against monsters and has been translated into modern English?",
+    answer:
+      "The Anglo-Saxon poem Beowulf tells of its hero’s battles against monsters and is still translated into modern English.",
+  },
+  {
+    id: "321",
+    question: "Which movie was directed by Alfred Hitchcock in 1935?",
+    answer: "The 39 Steps (1935) was directed by Alfred Hitchcock.",
+  },
+  {
+    id: "322",
+    question: "When was the National Health System (NHS) established?",
+    answer:
+      "In 1948, Aneurin (Nye) Bevan, the Minister for Health, led the establishment of the National Health Service (NHS), which guaranteed a minimum standard of health care for all, free at the point of use.",
+  },
+  {
+    id: "323",
+    question: "What is the note with the highest value in the UK?",
+    answer: "The note with the highest value in the UK is the £50 note.",
+  },
+  {
+    id: "324",
+    question: "Who was Prime Minister of Britain from 1721 to 1742?",
+    answer: "Sir Robert Walpole was Prime Minister from 1721 to 1742.",
+  },
+  {
+    id: "325",
+    question:
+      "The Battle of Hastings is commemorated in a great piece of embroidery, which is known as:",
+    answer:
+      "The Battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux tapestry, which can still be seen in France today.",
+  },
+  {
+    id: "326",
+    question:
+      "A woman who is violent towards her partner cannot be prosecuted in the UK: True or False",
+    answer:
+      "False. Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted.",
+  },
+  {
+    id: "527",
+    question:
+      "Many MPs, SMs and MSPs hold regular local events where constituents can go in person to talk about issues that are of concern to them. These are known as:",
+    answer:
+      "Many MPs, SMs and MSPs hold regular local ‘surgeries’, where constituents can go in person to talk about issues that are of concern to them. These surgeries are often advertised in the local newspaper.",
+  },
+  {
+    id: "528",
+    question:
+      "Which golf ‘Major’ tournament is hosted by a different golf course every year?",
+    answer:
+      "The Open Championship is the only ‘Major’ tournament held outside United States. It is hosted by a different golf course every year.",
+  },
+  {
+    id: "529",
+    question:
+      "Which act introduced the Forced Marriage Protection Orders for England, Wales and Northern Ireland in 2008?",
+    answer:
+      "Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007. Similar Protection Orders were introduced in Scotland in November 2011.",
+  },
+  {
+    id: "530",
+    question:
+      "Which  country did NOT join the European Economic Community when it was first formed in 1957?",
+    answer:
+      "West Germany, France, Belgium, Italy, Luxembourg and the Netherlands formed the European Economic Community (EEC) in 1957. At first the UK did not wish to join the EEC but it eventually did so in 1973.",
+  },
+  {
+    id: "531",
+    question: "How many members does the Northern Ireland assembly have?",
+    answer:
+      "The Northern Ireland Assembly has 90 elected members, known as MLAs (members of the Legislative Assembly). They are elected with a form of proportional representation.",
+  },
+  {
+    id: "532",
+    question:
+      "Which civil law include disputes between landlords and tenants over issues such as repairs and eviction?",
+    answer:
+      "Housing law includes disputes between landlords and tenants over issues suck as repairs and eviction.",
+  },
+  {
+    id: "533",
+    question: "How can you visit the Scottish Parliament?",
+    answer:
+      "To visit the Scottish Parliament, you can get information, book tickets or arrange tours through visitor services. You can also write to them at the Scottish Parliament, Edinburgh, EH99 1SP, telephone 0131 348 5200 or email sp.booking@scottish.parliament.",
+  },
+  {
+    id: "534",
+    question: "Which  garden is located in Wales?",
+    answer:
+      "There are famous gardens to visit throughout the UK, including Kew Gardens, Sissinghurst and Hidcote in England, Crathes Castle and Inveraray Castle in Scotland, Bodnant Garden in Wales, and Mount Stewart in Northern Ireland.",
+  },
+  {
+    id: "535",
+    question:
+      "Who was reining in Britain when the British Empire became the largest empire the world has ever seen, with an estimated population of more than 400 million people?",
+    answer:
+      "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people.",
+  },
+  {
+    id: "536",
+    question: "The UK is not part of which of the international institutions?",
+    answer:
+      "The UK is a member of the Council of Europe, the United Nations and the North Atlantic Treaty Organization (NATO). The UK is no longer a member of the European Union.",
+  },
+  {
+    id: "537",
+    question: "Where is the National Gallery of Scotland located?",
+    answer: "The National Gallery of Scotland is in Edinburgh.",
+  },
+  {
+    id: "538",
+    question:
+      "Where are the ancestors of the first farmers to arrive in Britain believed to come from?",
+    answer:
+      "The first farmers arrived in Britain 6,000 years ago. The ancestors of these first farmers probably came from south-east Europe. They brought with them the knowledge of farming and the use of stone tools.",
+  },
+  {
+    id: "539",
+    question: "What religion did Elizabeth I follow?",
+    answer: "Queen Elizabeth I was a Protestant.",
+  },
+  {
+    id: "540",
+    question: "Who directed the movie ‘Chariots of Fire’ in 1981?",
+    answer: "Chariots of Fire (1981) was directed by Hugh Hudson.",
+  },
+  {
+    id: "541",
+    question:
+      "What do new citizens have to swear or affirm as part of the citizenship ceremony?",
+    answer:
+      "New citizens swear or affirm loyalty to the King as part of the citizenship ceremony.",
+  },
+  {
+    id: "542",
+    question:
+      "In which TWO cases may a person who has been summoned to do jury service be exempted from doing it:",
+    answer:
+      "Everyone who is summoned to do jury service must do it unless they are not eligible (for example, because they have a criminal conviction) or they provide a good reason to be excused, such as ill health.",
+  },
+  {
+    id: "543",
+    question:
+      "Which hill fort from the Iron Age can be seen in the county of Dorset?",
+    answer:
+      "A very impressive hill fort from the Iron Age can still be seen today at Maiden Castle, in the English county of Dorset.",
+  },
+  {
+    id: "544",
+    question:
+      "On which issue the Northern Ireland Assembly CANNOT make decisions?",
+    answer:
+      "Planning. The Northern Ireland Assembly can make decisions on issues such as education, agriculture, the environment, health and social services.",
+  },
+  {
+    id: "545",
+    question:
+      "Who was the first person to sail single-handed around the world in 1966/67?",
+    answer:
+      "A British sailor, Sir Francis Chichester, was the first person to sail singlehanded around the world, in 1966/67. He sailed from Plymouth to Sydney, Australia, and back again.",
+  },
+  {
+    id: "546",
+    question:
+      "In 1837, Queen Victoria became queen of the UK at the age of 20.True or False?",
+    answer:
+      "False. In 1837, Queen Victoria became queen of the UK at the age of 18.",
+  },
+  {
+    id: "547",
+    question:
+      "Who led the group of Catholics who tried to kill the Protestant king with a bomb in the Houses of the Parliament in 1605?",
+    answer:
+      "In 1605, a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament. This is the origin of the Bonfire Night celebration on the 5th November, when people in Great Britain set off fireworks at home or in special displays.",
+  },
+  {
+    id: "548",
+    question:
+      "What was the biggest source of employment in Britain before the 18th century?",
+    answer:
+      "Before the 18th century, agriculture was the biggest source of employment in Britain.",
+  },
+  {
+    id: "549",
+    question:
+      "The UK continues to be a world leader in the development and manufacture of motor-sport technology: True or False",
+    answer:
+      "There is a long history of motor sport in the UK, for both cars and motor cycles. Motor-car racing in the UK started in 1902. The UK continues to be a world leader in the development and manufacture of motor-sport technology.",
+  },
+  {
+    id: "550",
+    question: "What British artist was awarded the Turner Prize?",
+    answer: "Damien Hirst.",
+  },
+  {
+    id: "551",
+    question:
+      "In the UK, Members of the Parliament (MPs) are elected on the basis of:",
+    answer:
+      "MPs are elected through a system called ‘first past the post’. In constituency, the candidate who gets the most votes is elected.",
+  },
+  {
+    id: "552",
+    question: "Television programs in Northern Ireland",
+    answer:
+      "There are programmes specific to Northern Ireland and some programmes broadcast in Irish Gaelic.",
+  },
+  {
+    id: "553",
+    question:
+      "In the second half of the 19th century there was an important group of artists who painted detailed pictures on religious or literary themes in bright colours. These were known as:",
+    answer:
+      "The Pre-Raphaelites were an important group of artists in the second half of the 19th century. They painted detailed pictures on religious or literary themes in bright colours. The group included Holman Hunt, Dante Gabriel Rossetti and Sir John Millais.",
+  },
+  {
+    id: "554",
+    question: "What was the population of the UK in 1901?",
+    answer: "The population of the UK in 1901 was 40 million people.",
+  },
+  {
+    id: "555",
+    question: "People in the UK do NOT have to pay tax on:",
+    answer:
+      "People in the UK do not have to pay tax on Income from expensive gifts. They have to pay tax on their income, which includes: wages from paid employment, profits from self-employment, taxable benefits, pensions and income from property, savings and dividends.",
+  },
+  {
+    id: "556",
+    question:
+      "Which British scientist co-invented the MRI (magnetic resonance imaging) scanner?",
+    answer:
+      "Sir Peter Mansfield (1933-), a British scientist, is the co-inventor of the MRI (magnetic resonance imaging) scanner. This enables doctors and researchers to obtain exact and non-invasive images of human internal organs and has revolutionised diagnostic medicine.",
+  },
+  {
+    id: "557",
+    question:
+      "Which political party called a referendum on the UK’s membership of the European Union?",
+    answer:
+      "The Conservative government called a referendum on the UK’s membership of the European Union.",
+  },
+  {
+    id: "558",
+    question:
+      "Name a UNESCO World Heritage Site and a popular area for walkers?",
+    answer:
+      "Parts of Hadrian’s Wall, including the forts of Housesteads and Vindolanda is a popular area for walkers and is a UNESCO (United Nations Educational Scientific and Cultural Organization) World Heritage Site.",
+  },
+  {
+    id: "559",
+    question:
+      "Which charity works for the preservation of buildings in England?",
+    answer:
+      "In the UK, many parts of the countryside and places of interest are kept open by the National Trust in England, Wales and Northern Ireland and the National Trust for Scotland. Both are charities that work to preserve important buildings, coastline and countryside in the UK.",
+  },
+  {
+    id: "560",
+    question:
+      "What name is given to the new social classes that appeared after the Black Death plague and who owned large areas of land?",
+    answer:
+      "Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were labour shortages and peasants began to demand higher wages. New social classes appeared, including owners of large areas of land (later called the gentry), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong middle class.",
+  },
+ 
 ];
 
 export default allFlashcards;

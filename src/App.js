@@ -39,8 +39,12 @@ const Flashcard = ({ flashcard, markCorrect }) => {
         <div
           style={{
             height: "100%",
+            display: "flex",
+            justifyContent: "center", //center horizontally
+            alignItems: "center", //center vertically
             overflowY: "auto", // Enable vertical scrolling
             padding: "10px",
+            textAlign: "center", //center text alignment
           }}
         >
           <h5 className="card-title ">

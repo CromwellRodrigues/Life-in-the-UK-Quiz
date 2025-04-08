@@ -41,12 +41,15 @@ const Flashcard = ({ flashcard, markCorrect }) => {
             height: "100%",
             display: "flex",
             justifyContent: "center", //center horizontally
-            alignItems: "center", //center vertically
-            overflowY: "hidden", // Enable vertical scrolling
+          
+            overflowY: "auto", // Enable vertical scrolling
+            overflowX: "hidden", // Disable horizontal scrolling
             padding: "5px",
-            textAlign: "center", //center text alignment
+      
           }}
         >
+
+          
           <h5 className="card-title ">
             {flipped ? flashcard.answer : flashcard.question}
           </h5>

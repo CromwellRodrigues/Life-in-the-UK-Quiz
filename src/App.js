@@ -42,8 +42,8 @@ const Flashcard = ({ flashcard, markCorrect }) => {
             display: "flex",
             justifyContent: "center", //center horizontally
             alignItems: "center", //center vertically
-            overflowY: "auto", // Enable vertical scrolling
-            padding: "10px",
+            overflowY: "hidden", // Enable vertical scrolling
+            padding: "5px",
             textAlign: "center", //center text alignment
           }}
         >

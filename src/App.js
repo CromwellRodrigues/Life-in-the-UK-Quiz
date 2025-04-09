@@ -50,6 +50,17 @@ const Flashcard = ({ flashcard, markCorrect }) => {
         >
           <h5 className="card-title ">
             {flipped ? flashcard.answer : flashcard.question}
+            <p
+            style={{
+    position: "absolute", // Position it relative to the card
+    bottom: "10px", // Push it to the bottom with some spacing
+    fontSize: "12px", // Make the font size smaller
+    width: "100%", // Ensure it spans the width of the card
+    textAlign: "center", // Center the text horizontally
+                margin: "0", // Remove default margin 
+              }}
+            
+            >Tap to see answer</p>
           </h5>
         </div>
       </div>

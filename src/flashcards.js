@@ -2324,14 +2324,14 @@ const allFlashcards = [
   {
     id: "567",
     question:
-      "Which of the following is the responsibility of the Home Secretary?",
+      "What is the responsibility of the Home Secretary?",
     answer:
       "The Home Secretary is responsible for crime, policing and immigration.",
   },
   {
     id: "568",
     question:
-      "Which of the following sports can be traced as far back as the Roman times?",
+      "Which sport can be traced as far back as the Roman times?",
     answer:
       "There is a very long history of horse racing in Britain, with evidence of events taking place as far back as Roman times.",
   },
@@ -2798,188 +2798,188 @@ const allFlashcards = [
       "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments.",
   },
   {
-    id: "",
+    id: "632",
     question:
       "Which TWO words come from the Viking language? Grimsby,Scunthorpe,Thunderstorm,Butterfly",
     answer:
       "Many of the Viking invaders stayed in Britain – especially in the east and north of England in an area known as the Danelaw (many place names there, such as Grimsby and Scunthorpe come from the Viking languages).",
   },
   {
-    id: "",
+    id: "633",
     question: "How is the Speaker elected?",
     answer: "The Speaker is chosen by other MPs in a secret ballot.",
   },
   {
-    id: "",
+    id: "634",
     question:
       "Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the former Republic of Yugoslavia: True or False?",
     answer: "True.",
   },
   {
-    id: "",
+    id: "635",
     question:
       "The ‘swinging sixties’ was a period of significant social change and it was known for its growth in:",
     answer:
       "The decade of the 1960s was a period of significant social change. It was known as the ‘swinging sixties’. There was growth in British fashion, cinema and popular music.",
   },
   {
-    id: "",
+    id: "636",
     question:
       "What is the name given to the system used to deal with children and young people who have committed an offence in Scotland?",
     answer:
       "In Scotland a system called the Children’s Hearings System is used to deal with children and young people who have committed an offence.",
   },
   {
-    id: "",
+    id: "637",
     question:
       "Which prehistoric village located in northern Europe has helped archaeologists to understand more about how people live near the end of the Stone Age?",
     answer:
       "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age.",
   },
   {
-    id: "",
+    id: "638",
     question:
       "During the Middle Ages, a Parliament was developed in Scotland, which had three Houses called Estates. These were:",
     answer:
       "The Parliament developed in Scotland in the Middle Ages had three Houses, called Estates: the lords, the commons and the clergy.",
   },
   {
-    id: "",
+    id: "639",
     question:
       "Which landscape architect designed grounds around country houses so that the landscape appeared to be natural, with grass, trees and lakes?",
     answer:
       "In the 18th century, Lancelot ‘Capability’ Brown designed the grounds around country houses so that the landscape appeared to be natural, with grass, trees and lakes. He often worked with Edwin Lutyens to design colourful gardens around the houses he designed.",
   },
   {
-    id: "",
+    id: "640",
     question:
       "Which of the following scientific discoveries helped the progress of the Industrial Revolution? Penicillin,  The aeroplane, Steam power, The lightbulb ",
     answer:
       "Scientific discoveries, such as James Watt’s work on steam power, helped the progress of the Industrial Revolution.",
   },
   {
-    id: "",
+    id: "641",
     question: "Who were the parents of Elizabeth I?",
     answer: "Henry VIII and Anne Boleyn were the parents of Elizabeth I.",
   },
   {
-    id: "",
+    id: "642",
     question: "The Isle of Man is a Crown dependency. True or False?",
     answer: "True.",
   },
   {
-    id: "",
+    id: "643",
     question:
       "Which of the following charities works for the prevention of cruelty to children?",
     answer:
       "The NSPCC is the National Society for the Prevention of Cruelty to Children.",
   },
   {
-    id: "",
+    id: "644",
     question: "When did motor-car racing start in the UK?",
     answer: "Motor-car racing in the UK started in 1902.",
   },
 
   {
-    id: "",
+    id: "645",
     question:
       "The Commonwealth is based on the core values of democracy, good government and the rule of law: True or False?",
     answer: "True.",
   },
   {
-    id: "",
+    id: "646",
     question: "How long does it take to donate blood?",
     answer: "Giving blood only takes about an hour to do.",
   },
   {
-    id: "",
+    id: "647",
     question: "When did the post-war economic boom come to an end?",
     answer: "In the late 1970s, the post-war economic boom came to an end.",
   },
   {
-    id: "",
+    id: "648",
     question:
       "During its government, Margaret Thatcher made structural changes to the economy through the privatisation of nationalised industries and imposed legal controls on trade union powers: True or False?",
     answer:
       "True. Margaret Thatcher made structural changes to the economy through the privatisation of nationalised industries and imposed legal controls on trade union powers.",
   },
   {
-    id: "",
+    id: "649",
     question: "Who sat at the House of Commons during the Middle Ages?",
     answer:
       "In the Middle Ages, Knights, who were usually smaller landowners, and wealthy people from towns and cities were elected to sit in the House of Commons.",
   },
   {
-    id: "",
+    id: "650",
     question: "Which words come from the Anglo-Saxon language? ",
     answer: "The words ‘Apple’ and ‘summer’ are based on Anglo-Saxon words.",
   },
   {
-    id: "",
+    id: "651",
     question: "Where do local authorities get funding from",
     answer:
       "Local authorities provide a range of services in their areas. They are funded by money from central government and by local taxes.",
   },
   {
-    id: "",
+    id: "652",
     question: "If you are self-employed:",
     answer:
       "If you are self-employed, you need to pay your own tax through a system called ‘self-assessment’, which includes completing a tax return.",
   },
   {
-    id: "",
+    id: "653",
     question:
       "What name is given to the elected members of the Northern Ireland Assembly?",
     answer:
       "Members of the Northern Ireland Assembly are known as MLAs (members of the Legislative Assembly).",
   },
   {
-    id: "",
+    id: "654",
     question:
       "Which of the following areas did the British Empire NOT cover during the Victorian period? Mexico, Australia, India, Large parts of Africa",
     answer:
       "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa.",
   },
   {
-    id: "",
+    id: "655",
     question:
       "What percentage of the total British population is located in Wales?",
     answer: "The total British population located in Wales is around 5%.",
   },
   {
-    id: "",
+    id: "656",
     question: "Which British scientist led the development of the atomic bomb?",
     answer:
       "Scientists led by Ernest Rutherford, working at Manchester and then Cambridge University, were the first to ‘split the atom’ and took part in the Manhattan Project in the United States, which developed the atomic bomb.",
   },
   {
-    id: "",
+    id: "657",
     question:
       "Which movie played an important role in boosting morale during the Second World War? ",
     answer:
       "During the Second World War, British movies (for example, In Which We Serve) played an important part in boosting morale.",
   },
   {
-    id: "",
+    id: "658",
     question: "Who won the 2012 Olympic gold medal in heptathlon?",
     answer:
       "Jessica Ennis (1986-) won the 2012 Olympic gold medal in the heptathlon, which includes seven different track and field events. She also holds a number of British athletics records.",
   },
   {
-    id: "",
+    id: "659",
     question:
       "What is the name of the annual cultural Welsh festival which includes music, dance, art and original performances largely in Welsh?",
     answer:
       "The National Eisteddfod of Wales is an annual cultural festival which includes music, dance, art and original performances largely in Welsh. It includes a number of important competitions for Welsh poetry.",
   },
   {
-    id: "",
+    id: "660",
     question: "What is the most well-known rugby league (club) competition?",
     answer:
       "The Super League is the most well-known rugby league (club) competition.",
   },
   {
-    id: "",
+    id: "661",
     question:
       "How old was the Queen of Scotland, Mary Stuart, when she became queen?",
     answer:
@@ -2987,121 +2987,121 @@ const allFlashcards = [
   },
 
   {
-    id: "",
+    id: "662",
     question: "Where was the first tennis club founded?",
     answer: "The first tennis club was founded in Leamington Spa in 1872.",
   },
   {
-    id: "",
+    id: "663",
     question:
       "Which British playwright invented many common English words and had a great influence on the English language?",
     answer:
       "William Shakespeare had a great influence on the English language and invented many words that are still common today.",
   },
   {
-    id: "",
+    id: "664",
     question:
       "Which famous poem tells the story of the knights at the court of King Arthur?",
     answer:
       "Poems which survive from the Middle Ages include Chaucer’s Canterbury Tales and a poem called Sir Gawain and the Green Knight, about one of the knights at the court of King Arthur.",
   },
   {
-    id: "",
+    id: "665",
     question: "Which flower is associated with Northern Ireland?",
     answer: "The shamrock is the flower associated with Northern Ireland.",
   },
   {
-    id: "",
+    id: "666",
     question:
       "The longest distance on the mainland in the UK is from John O’Groats on the north coast of Scotland to a place in the south-west corner of England known as:",
     answer:
       "The longest distance on the mainland is from John O’Groats on the north coast of Scotland to Land’s End in the south-west corner of England. It is about 870 miles (approximately 1,400 kilometres).",
   },
   {
-    id: "",
+    id: "667",
     question:
       "Who wrote a famous series of poems about a group of people going to Canterbury on a pilgrimage known as ‘The Canterbury Tales’?",
     answer:
       "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told. This collection of poems is called The Canterbury Tales.",
   },
   {
-    id: "",
+    id: "668",
     question:
       "Which of the following categories is recognised at the Laurence Olivier Awards? Music, Theatre, Sport, Literature",
     answer:
       "The Laurence Olivier Awards recognise achievements in the area of theatre.",
   },
   {
-    id: "",
+    id: "669",
     question:
       "In the UK, there is a National Lottery for which draws are made every day. True or False.",
     answer:
       "In the UK, there is a National Lottery for which draws are made every week.",
   },
   {
-    id: "",
+    id: "670",
     question: "Where is Europe’s longest dry ski slope located?",
     answer:
       "There are five ski centres in Scotland, as well as Europe’s longest dry ski slope near Edinburgh.",
   },
   {
-    id: "",
+    id: "671",
     question:
       "Which TWO of Henry VIII’s wives were accused of taking lovers and executed?",
     answer:
       "Anne Boleyn and Catherine Howard were accused of taking lovers and executed.",
   },
   {
-    id: "",
+    id: "672",
     question: "What was the population of the UK in 1600?",
     answer: "The population of the UK in 1600 was just over 4 million people.",
   },
   {
-    id: "",
+    id: "673",
     question:
       "In which of the following languages is the life in the UK test NOT available? English, Scottish Gaelic, French, Welsh ",
     answer:
       "The Life in the UK test is usually taken is English, although special arrangements can be made if you wish to take it in Welsh or Scottish Gaelic.",
   },
   {
-    id: "",
+    id: "674",
     question: "When was St Pancras Station built?",
     answer: "St Pancras Station was built in the 19th century.",
   },
   {
-    id: "",
+    id: "675",
     question: "Which TWO soap operas are popular in the UK?",
     answer:
       "Popular programmes in the UK include regular soap operas such as Coronation Street and EastEnders.",
   },
   {
-    id: "",
+    id: "676",
     question: "Who was the first king of the House of Tudor?",
     answer: "Henry VII (Henry Tudor) was the first king of the House of Tudor.",
   },
   {
-    id: "",
+    id: "677",
     question:
       "What do Lewis Hamilton, Jenson Button and Damon Hill have in common?",
     answer:
       "Lewis Hamilton, Jenson Button and Damon Hill have won the Formula 1 World Championship.",
   },
   {
-    id: "",
+    id: "678",
     question:
       "According to the 2011 Census, what percentage of people said that they had no religion?",
     answer:
       "According to the 2011 census, 25% of people said they had no religion",
   },
   {
-    id: "",
+    id: "679",
     question:
       "What other name is given to Diwali, the religious celebration that celebrates the victory of good over evil and the gaining of knowledge?",
     answer:
       "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights.",
   },
   {
-    id: "",
+    id: "670",
     question:
       "In Wales, the jury has to listen to the evidence presented at the trial and then decide a verdict of ‘guilty’, ‘not guilty’ or ‘not proven’ based of what they have heard: True or False ",
     answer:
@@ -3109,222 +3109,222 @@ const allFlashcards = [
   },
 
   {
-    id: "",
+    id: "671",
     question:
       "A National Insurance number does on its own prove to an employer that you have the right to work in the UK: True or False",
     answer:
       "False. A National Insurance number does not on its own prove to an employer that you have the right to work in the UK.",
   },
   {
-    id: "",
+    id: "672",
     question:
       "Which is the ceremonial role to be undertaken by the King every year?",
     answer:
       "The King has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government’s policies for the year ahead.",
   },
   {
-    id: "",
+    id: "673",
     question:
       "How long can you use your driving licence in the UK if you have a licence from another country?",
     answer:
       "If you have a licence from another country, you may use it in the UK for up to 12 months.",
   },
   {
-    id: "",
+    id: "674",
     question:
       "What British discovery was influential in the development of computer science and the modern-day computer? ",
     answer:
       "The Turing machine is a theoretical mathematical device invented by Alan Turing (1912-54), a British mathematician, in the 1930s. The theory was influential in the development of computer science and the modern-day computer.",
   },
   {
-    id: "",
+    id: "675",
     question:
       "Which famous philosopher developed ideas about human nature during the 18th century and that have continued to influence philosophers over the years?",
     answer:
       "During the 18th century, David Hume’s ideas about human nature continue to influence philosophers.",
   },
   {
-    id: "",
+    id: "676",
     question:
       "If you are arrested and taken to a police station, a police officer should:",
     answer:
       "If you are arrested and taken to a police station, a police officer will tell you the reason for your arrest and you will be able to seek legal advice.",
   },
   {
-    id: "",
+    id: "677",
     question: "What TWO names are given to the day before Lent?",
     answer:
       "The day before Lent starts is called Shrove Tuesday, or Pancake Day.",
   },
   {
-    id: "",
+    id: "678",
     question:
       "Who wrote the music for the popular show Jesus Christ Superstar?",
     answer:
       "Andrew Lloyd Webber has written the music for shows which have been popular throughout the world, including, in collaboration with Tim Rice, Jesus Christ Superstar and Evita, and also Cats and The Phantom of the Opera.",
   },
   {
-    id: "",
+    id: "679",
     question: "What did the Chartists campaign for?",
     answer:
       "The Chartists campaigned for every man to have the vote, elections every year, for all regions to be equal in the electoral system, secret ballots, for any man to be able to stand as an MP and for MPs to be paid The Chartists, demanded the vote for the working classes and other people without property.",
   },
   {
-    id: "",
+    id: "680",
     question: "When did King Charles III start reining?",
     answer: "The King has reigned since his mother’s death in September 2022.",
   },
   {
-    id: "",
+    id: "681",
     question:
       "What is the name of the land formation consisting of columns made of volcanic lava located on the north-east coast of Northern Ireland?",
     answer:
       "Located on the north-east coast of Northern Ireland, the Giant’s Causeway is a land formation of columns made from volcanic lava. The Giant’s Causeway was formed about 50 million years ago. ",
   },
   {
-    id: "",
+    id: "682",
     question:
       "Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media: True or False",
     answer: "True.",
   },
   {
-    id: "",
+    id: "683",
     question:
       "A set of principles by which a country is governed and which includes all of the institutions that are responsible for running the country and how their power is kept in check is the definition for:",
     answer:
       "A constitution is a set of principles by which a country is governed. It includes all of the institutions that are responsible for running the country and how their power is kept in check.",
   },
   {
-    id: "",
+    id: "684",
     question:
       "Who invented the cash-dispensing ATM (automatic teller machine) or ‘cashpoint’?",
     answer:
       "In the 1960s, James Goodfellow (1937-) invented the cash-dispensing ATM (automatic teller machine) or ‘cashpoint’. The first of these was put into use by Barclays Bank in Enfield, north London in 1967.",
   },
   {
-    id: "",
+    id: "685",
     question:
       "What name is given to the candelabrum lit during the eight-day holiday of Hanukkah?",
     answer:
       "Hanukkah is in November or December and is celebrated for eight days. On each day of the festival a candle is lit on a stand of eight candles (called a menorah) to remember the story of the festival, where oil that should have lasted only a day did so for eight.",
   },
   {
-    id: "",
+    id: "686",
     question:
       "It is against the law to treat a pet cruelly or to neglect it. True or false",
     answer: "True",
   },
   {
-    id: "",
+    id: "687",
     question:
       "Drinking in public can be a criminal offence and you can be fined or arrested for it:",
     answer:
       "Drinking in public: some places have alcohol-free zones where you cannot drink in public. The police can also confiscate alcohol or move young people on from public places. You can be fined or arrested.",
   },
   {
-    id: "",
+    id: "688",
     question: "What was the most spoken language during the Iron Age?",
     answer:
       "The language spoken during the Iron Age was part of the Celtic language family.",
   },
   {
-    id: "",
+    id: "689",
     question: "When did Henry VIII die?",
     answer: "Henry VIII died on the 28th of January 1547.",
   },
 
   {
-    id: "",
+    id: "689",
     question:
       "‘The darling buds of May’ is a line from William Shakespeare’s play Sonnet 18 – Shall I Compare Thee To A Summer’s Day. True or False?",
     answer: "True.",
   },
   {
-    id: "",
+    id: "690",
     question:
       "The queen of Scotland, Mary Stuart (often now called ‘Mary, Queen of Scots’) was a Catholic. True or False?",
     answer: "True.",
   },
   {
-    id: "",
+    id: "691",
     question:
       "When did Ireland become unified with England, Wales and Scotland?",
     answer:
       "In 1801, Ireland became unified with England, Scotland and Wales after the Act of Union of 1800. This created the United Kingdom of Great Britain and Ireland.",
   },
   {
-    id: "",
+    id: "692",
     question:
       "The devolved administrations of Wales, Scotland and Northern Ireland each have their own civil service: True or False?",
     answer: "True. ",
   },
   {
-    id: "",
+    id: "693",
     question:
       "On Remembrance Day, there is a two-minute silence at 11 AM to commemorate those who died fighting during the First World War.",
     answer:
       "On Remembrance Day at 11.00 am there is a two-minute silence and wreaths are laid at the Cenotaph in Whitehall, London.",
   },
   {
-    id: "",
+    id: "694",
     question: "Who was Henry Purcell?",
     answer:
       "Henry Purcell (1659-95) was the organist at Westminster Abbey. He wrote church music, operas and other pieces, and developed a British style distinct from that elsewhere in Europe.",
   },
   {
-    id: "",
+    id: "695",
     question: "How are life peers appointed?",
     answer:
       "Life peers are appointed by the monarch on the advice of the Prime Minister.",
   },
   {
-    id: "",
+    id: "696",
     question:
       "Who proposed that enemy aircrafts could be detected by radio waves and is responsible for the development of the radar?",
     answer:
       "The radar was developed by Scotsman Sir Robert Watson-Watt (1892-1973), who proposed that enemy aircraft could be detected by radio waves. The first successful radar test took place in 1935.",
   },
   {
-    id: "",
+    id: "697",
     question:
       "During Halloween people carve lanterns out of ______ and put a candle inside of them.",
     answer: "Pumpkins",
   },
   {
-    id: "",
+    id: "698",
     question:
       "In England, Wales and Northern Ireland, if an accused person is aged 18, the case will be heard in a Youth Court: True or False?",
     answer:
       "False. In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a Youth Court in front of up to three specially trained magistrates or a District Judge.",
   },
   {
-    id: "",
+    id: "699",
     question: "Who sat at the House of Lords during the Middle Ages?",
     answer:
       "During the Middle Ages, great landowners and bishops sat in the House of Lords.",
   },
   {
-    id: "",
+    id: "700",
     question:
       "In Scotland, some Scotland-specific programmes are shown and there is also a channel with programmes in the Gaelic language. True or False",
     answer: "True",
   },
   {
-    id: "",
+    id: "701",
     question:
       "Which of the following countries was NOT part of the Central Powers during the First World War? Germany, Serbia, Austria, Hungary ",
     answer:
       "During the First World War Serbia formed part of the Allied powers.",
   },
   {
-    id: "",
+    id: "702",
     question:
       "What is played at important national occasions and at events attended by the King or the Royal Family?",
     answer:
       "The National Anthem of the UK is ‘God Save the King’ is played at important national occasions and at events attended by the King or the Royal Family.",
   },
   {
-    id: "",
+    id: "703",
     question:
       "How can a person be protected from being forced into a marriage?",
     answer:
@@ -3338,321 +3338,321 @@ const allFlashcards = [
       "Unfair dismissal or discrimination in the workplace is classified as a civil offence.",
   },
   {
-    id: "",
+    id: "704",
     question: "When did Henry VIII start reining?",
     answer:
       "Henry VIII was king of England from 21 April 1509 until his death on 28 January 1547.",
   },
   {
-    id: "",
+    id: "705",
     question: "What is the currency in the UK?",
     answer: "The currency in the UK is the pound sterling (symbol £).",
   },
   {
-    id: "",
+    id: "706",
     question:
       "The European Council is not part of the British government. True or false",
     answer: "True",
   },
 
   {
-    id: "",
+    id: "707",
     question:
       "Which TWO universities compete with each other on a rowing race along the River Thames every year?",
     answer:
       "There is a popular yearly rowing race on the Thames between Oxford and Cambridge Universities.",
   },
   {
-    id: "",
+    id: "708",
     question:
       "When driving in the UK, where do you need to display the tax disc which shows that the annual road tax has been paid?",
     answer:
       "When driving in the UK, you must pay an annual road tax and display the tax disc, which shows that the tax has been paid, on the windowscreen.",
   },
   {
-    id: "",
+    id: "709",
     question: "The Lord of the Rings is a British film. True or False",
     answer: "The Lord of the Rings is not a British film.",
   },
   {
-    id: "",
+    id: "710",
     question:
       "A jury is made up of members of the public chosen at random from the local electoral register. True or False",
     answer: "True",
   },
   {
-    id: "",
+    id: 711",
     question: "When is St David’s Day, patron of Wales?",
     answer:
       "St David’s Day, patron of Wales is celebrated on the 1st of March.",
   },
   {
-    id: "",
+    id: "712",
     question:
       "What name is given to the red flowers found on the battlefields of the First World War and which people wear during Remembrance Day?",
     answer:
       "Remembrance Day people wear poppies(the red flower found on the battlefields of the First World War).",
   },
   {
-    id: "",
+    id: "713",
     question:
       "Where can you get contact details for all your representatives and their parties ",
     answer:
       "You can get contact details for all your representatives and their parties from your local library and from http://www.parliament.uk.",
   },
   {
-    id: "",
+    id: "714",
     question: "What is the Old Bailey?",
     answer:
       "The Old Bailey is probably the most famous criminal court in the world.",
   },
   {
-    id: "",
+    id: "715",
     question:
       "It is a civil offence to cause harassment, alarm or distress to someone because of their religion or ethnic origin: True or False",
     answer:
       "False. It is a criminal offence to cause harassment, alarm or distress to someone because of their religion or ethnic origin.",
   },
   {
-    id: "",
+    id: "716",
     question:
       "What is the name of the oldest continuously working film studio facility in the world?",
     answer:
       "Ealing Studios has a claim to being the oldest continuously working film studio facility in the world.",
   },
   {
-    id: "",
+    id: "717",
     question: "By which name is London’s west end known for?",
     answer: "London’s west end is also known as ‘Theatreland’.",
   },
   {
-    id: "",
+    id: "718",
     question:
       "Which of the following was one of the commanders in the defeat of the Spanish Armada and one of the founders of England’s naval tradition? Alan Turing, Sir Francis Drake, James VI of Scotland, Oliver Cromwell",
     answer:
       "Sir Francis Drake was one of the commanders in the defeat of the Spanish Armada and one of the founders of England’s naval tradition.",
   },
   {
-    id: "",
+    id: "719",
     question: "Where was William Shakespeare born?",
     answer: "William Shakespeare was born in Stratford-upon-Avon.",
   },
   {
-    id: "",
+    id: "720",
     question:
       "Which TWO islands are closely linked to the UK but are not part of it?",
     answer:
       "The Channel Islands and the Isle of Man are closely linked to the UK but are not part of it.",
   },
   {
-    id: "",
+    id: "721",
     question: "Who gave Henry VIII the son he wanted, Edward?",
     answer: "Jane Seymour gave Henry VIII the son he wanted, Edward.",
   },
   {
-    id: "",
+    id: "722",
     question:
       "The Middle Ages or medieval times relate to the time that goes from the period after the Norman Conquest until the year:",
     answer:
       "The period after the Norman Conquest up until about 1485 is called the Middle Ages (or the medieval period).",
   },
   {
-    id: "",
+    id: "723",
     question: "Who is the heir to the throne of the UK?",
     answer:
       "The King’s eldest son, Prince William (the Prince of Wales), is the heir to the throne.",
   },
   {
-    id: "",
+    id: "724",
     question: "When was Ireland divided into two countries?",
     answer:
       "In 1921 a peace treaty was signed and in 1922 Ireland became two countries.",
   },
   {
-    id: "",
+    id: "725",
     question: "Dublin is a city of the UK. True or False",
     answer: "Dublin is not a city of the UK.",
   },
 
   {
-    id: "",
+    id: "726",
     question: "When is Bonfire Night celebrated?",
     answer: "Bonfire Night is celebrated on the 5th of November.",
   },
   {
-    id: "",
+    id: "727",
     question:
       "What is the name of the event that refers to the 6 June 1944 when Allied Forces landed in Normandy aiming to attack Hitler’s forces in Western Europe during World War II?",
     answer:
       "‘D-Day’ refers to the 6th of June 1944, when allied forces landed in Normandy aiming to attack Hitler’s forces in Western Europe during World War II.",
   },
   {
-    id: "",
+    id: "728",
     question:
       "In the UK, many people continue to visit the countryside for holidays and for leisure activities such as walking, camping and fishing: True or False",
     answer: "True",
   },
   {
-    id: "",
+    id: "729",
     question:
       "Which civilisations is known for having built roads and public buildings, creating a structure of law and having introduced new plants and animals in Britain?",
     answer:
       "The Romans remained in Britain for 400 years. They built roads and public buildings, created a structure of law, and introduced new plants and animals.",
   },
   {
-    id: "",
+    id: "730",
     question:
       "Which of the following countries is NOT a member of the Commonwealth? Uganda, Ghana, Malawi, Zimbabwe ",
     answer: "Zimbabwe is not a member of the Commonwealth.",
   },
   {
-    id: "",
+    id: "731",
     question:
       "What marked the beginning of what is called ‘constitutional monarchy’?",
     answer:
       "The laws passed after the Glorious Revolution are the beginning of what is called ‘constitutional monarchy’.",
   },
   {
-    id: "",
+    id: "732",
     question: "Who makes the decisions on government policies in the UK?",
     answer:
       "Decisions on government policies are made by the Prime Minister and cabinet.",
   },
   {
-    id: "",
+    id: "733",
     question: "Where does the most famous sailing event in the UK take place?",
     answer:
       "The most famous sailing event in the UK takes place at Cowes on the Isle of Wight.",
   },
   {
-    id: "",
+    id: "734",
     question: "How often is the electoral register updated?",
     answer:
       "The electoral register is updated every year in September or October.",
   },
   {
-    id: "",
+    id: "735",
     question: "What do you need to drive a car in the UK?",
     answer:
       "To drive a car in the UK you need a driving licence, a valid motor insurance, a MOT certificate (for cars over three years old) and the road tax.",
   },
   {
-    id: "",
+    id: "736",
     question:
       "The action of handing out leaflets in the street or knocking on people’s doors to ask for their political support is known as:",
     answer:
       "The action of handing out leaflets in the street or knocking on people’s doors to ask for their political support is known as canvassing.",
   },
   {
-    id: "",
+    id: "737",
     question: "Who defeated the Vikings?",
     answer: "King Alfred the Great defeated the Vikings.",
   },
   {
-    id: "",
+    id: "738",
     question: "When was Queen Elizabeth II’s Diamond Jubilee celebrated?",
     answer: "Queen Elizabeth II’s Diamond Jubilee was celebrated in 2012.",
   },
   {
-    id: "",
+    id: "739",
     question:
       "During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Where did the canal builders come from?",
     answer:
       "During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Canal builders came from Holland.",
   },
   {
-    id: "",
+    id: "740",
     question:
       "The Elizabethan period in England was a time of growing patriotism: a feeling of pride in being English, English explorers sought new trade routes and tried to expand British trade into the Spanish colonies in the Americas:",
     answer: "True",
   },
   {
-    id: "",
+    id: "741",
     question: "Which  are ‘Crown dependencies’?",
     answer: "The Isle of Man and the Channel Islands are ‘Crown dependencies’.",
   },
   {
-    id: "",
+    id: "742",
     question: "Which of the following is a charity that works with old people?",
     answer: "Age UK is a charity that works with old people.",
   },
   {
-    id: "",
+    id: "743",
     question:
       "Which popular British sport can be traced back to the 15th century?",
     answer:
       "The modern game of golf can be traced back to 15th century Scotland.",
   },
   {
-    id: "",
+    id: "744",
     question: "How many crosses form the Union Flag?",
     answer: "The Union Flag has three crosses.",
   },
   {
-    id: "",
+    id: "745",
     question: "Who were the suffragettes?",
     answer:
       "The suffragettes were a group who used civil disobedience to gain the vote for women.",
   },
   {
-    id: "",
+    id: "746",
     question: "What does the UK offer to its permanent residents or citizens?",
     answer: "A right to a fair trial is the correct answer.",
   },
   {
-    id: "",
+    id: "747",
     question:
       "What can living people donate that may help other people with injuries or illnesses ",
     answer: "Living people can donate blood and a kidney.",
   },
   {
-    id: "",
+    id: "748",
     question: "Where is the office of the MPs located?",
     answer:
       "The MP’s office is located at The House of Commons, Westminster, London, SW1A OAA.",
   },
   {
-    id: "",
+    id: "749",
     question:
       "Which of the following days are public holidays in Scotland : 1 January, 24 December 3 January, 2 January",
     answer:
       "In Scotland, the 1st of January and the 2nd of January are bank holidays.",
   },
   {
-    id: "",
+    id: "750",
     question:
       "The House of Commons is normally more independent of the government than the House of Lords: True or False",
     answer:
       "False. The House of Lords is normally more independent of the government than the House of Commons.",
   },
   {
-    id: "",
+    id: "751",
     question:
       "During which period were the House of Lords and House of Commons established?",
     answer:
       "In the Middle Ages, the numbers attending Parliament increased and two separate parts, known as Houses were established. These were the House of the Commons and the House of the Lords.",
   },
   {
-    id: "",
+    id: "752",
     question:
       "What name is given to the period of time when Christians take time to reflect and prepare for Easter?",
     answer:
       "Lent is a time when Christians take time to reflect and prepare for Easter.",
   },
   {
-    id: "",
+    id: "753",
     question:
       "In the new Church of England created by Henry VIII, who had the power to appoint bishops and order how people should worship?",
     answer:
       "In the new Church of England, the king, not the Pope, would have the power to appoint bishops and order how people should worship.",
   },
   {
-    id: "",
+    id: "754",
     question: "In Wales, many people speak Gaelic – a completely different language from English – and it is taught in schools and universities: True or False",
     answer: "False. In Wales, many people speak Welsh – a completely different language from English – and it is taught in schools and universities.",
   },
   {
-    id: "",
+    id: "755",
     question: "How many years did Queen Victoria reign for?",
     answer: "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years.",
   },

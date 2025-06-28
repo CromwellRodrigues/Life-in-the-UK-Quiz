@@ -655,7 +655,7 @@ const allFlashcards = [
     id: "102",
     question: "The Northern Ireland Assembly cannot make decisions on:",
     answer:
-      "The Northern Ireland Assembly can make decisions on issues such as education, agriculture, the environment, health and social services. It cannot make decisions on defence.",
+      "The Northern Ireland Assembly can make decisions on issues such as education, agriculture, the environment, health and social services. It cannot make decisions on defence. Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. However, many other public services, such as education, are controlled by the devolved administrations. ",
   },
 
   {
@@ -902,7 +902,7 @@ const allFlashcards = [
     id: "139",
     question: "Where can people facing domestic violence get help from? ",
     answer:
-      "People facing domestic violence can get help from a solicitor or the Citizens Advice Bureau. ",
+      "People facing domestic violence can get help from a solicitor or the Citizens Advice Bureau. If you are facing domestic violence you can get help from the 24-hour National Domestic Violence Freephone Helpline on 0808 2000 247 at any time, or the police can help you find a safe place to stay. ",
   },
 
   {
@@ -2642,7 +2642,7 @@ const allFlashcards = [
     question:
       "For how long was Britain a republic under the leadership of Oliver Cromwell? ",
     answer:
-      "Britain was a republic under the leadership of Oliver Cromwell for 11 years.",
+      "Britain was a republic under the leadership of Oliver Cromwell for 11 years.When Cromwell died, his son, Richard, became Lord Protector in his place but was not able to control the army or the government",
   },
   {
     id: "618",
@@ -3440,7 +3440,7 @@ const allFlashcards = [
     question:
       "Which TWO islands are closely linked to the UK but are not part of it?",
     answer:
-      "The Channel Islands and the Isle of Man are closely linked to the UK but are not part of it.",
+      "The Channel Islands and the Isle of Man are closely linked to the UK but are not part of it. The Isle of Man and the Channel Islands are ‘Crown dependencies’.",
   },
   {
     id: "721",
@@ -3656,6 +3656,136 @@ const allFlashcards = [
     question: "How many years did Queen Victoria reign for?",
     answer:
       "In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years.",
+  },
+
+  {
+    id: "756",
+    question:
+      "The UK population is ethnically diverse and changing rapidly, especially in large cities such as London: True or False",
+    answer:
+      "True.The UK population is ethnically diverse and changing rapidly, especially in large cities such as London.",
+  },
+
+  {
+    id: "757",
+    question: "Role of the King",
+    answer:
+      "The King receives foreign ambassadors and high commissioners, entertains visiting heads of state, and makes state visits overseas in support of diplomatic and relationships with other counties.",
+  },
+  {
+    id: "758",
+    question:
+      "The Speaker is a neutral MP and does not represent a political party: True or False",
+    answer:
+      "True. The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with the constituents’ problems like any other MP.",
+  },
+  {
+    id: "759",
+    question:
+      "When did the Vikings first visit Britain to raid coastal towns and take away goods and slaves?",
+    answer:
+      "The Vikings came from Denmark and Norway. They first visited Britain in AD 789 to raid coastal towns and take away goods and slave",
+  },
+  {
+    id: "760",
+    question:
+      "How many National Parks are there in England, Wales and Scotland?",
+    answer:
+      "There are 15 national parks in England, Wales and Scotland. They are areas of protected countryside that everyone can visit, and where people live, work and look after the landscape.",
+  },
+  {
+    id: "761",
+    question: "Which services can be obtained from veterinary surgeons?",
+    answer:
+      "Vaccinations and medical treatment for animals are available from veterinary surgeons (vets).",
+  },
+
+  {
+    id: "762",
+    question:
+      "The devolved governments in Scotland, Wales and Northern Ireland cannot control policies and laws governing taxation and social security: True or False",
+    answer:
+      "True Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. However, many other public services, such as education, are controlled by the devolved administrations.",
+  },
+  {
+    id: "763",
+    question: "The longer life expectancy in the UK has an effect on : ",
+    answer:
+      "People in the UK are living longer than ever before. This is due to improved living standards and better health care. There are now a record number of people aged 85 and over. This has an impact on the cost of pensions and health care.",
+  },
+  {
+    id: "764",
+    question:
+      "What percentage of the total British population is located in Scotland?",
+    answer:
+      "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8%, and Northern Ireland less than 3%.",
+  },
+  {
+    id: "765",
+    question:
+      "Which of the  academy award is the equivalent of the Oscars in the UK?",
+    answer:
+      "The annual British Academy Film Awards, hosted by the British Academy of Film and Television Arts (BAFTA), are the British equivalent of the Oscars.",
+  },
+  {
+    id: "766",
+    question: "Which political party was elected after the Second World War?",
+    answer:
+      "The Labour Party won the 1945 election. Clement Attlee was Prime Minister from 1945 to 1951 and led the Labour Party for 20 years.",
+  },
+  {
+    id: "767",
+    question:
+      "In which Japanese cities did the United States drop atomic bombs in August 1945?",
+    answer:
+      "The war against Japan ended in August 1945 when the United States dropped its newly developed atom bombs on the Japanese cities of Hiroshima and Nagasaki.",
+  },
+  {
+    id: "768",
+    question: "What is a bank holiday ?",
+    answer:
+      "In the UK, there are public holidays each year called bank holidays, when banks and many other businesses are closed for the day.",
+  },
+
+  {
+    id: "769",
+    question:
+      "By 1200, the English ruled an area of Ireland known as the Pale, around Dublin.",
+    answer: "True",
+  },
+  {
+    id: "770",
+    question:
+      "The most famous rugby union competition is the Six Nations Championship between England, Ireland, Scotland, Wales, France and Italy.",
+    answer: "True",
+  },
+
+  {
+    id: "771",
+    question: "Who became Queen after Edward VI?",
+    answer:
+      "Edward VI died at the age of 15 after ruling for just over six years, and his half-sister Mary became queen.",
+  },
+
+  {
+    id: "772",
+    question:
+      "Cases of unfair dismissal or discrimination in the workplace are considered civil offences",
+    answer: "True",
+  },
+
+  {
+    id: "773",
+
+    question:
+      "The right to life and the right to liberty and security are some of the principles included in the European Convention of Human Rights:",
+    answer: "True",
+  },
+  {
+    id: "774",
+    question:
+      "British values and principles are based on history and traditions and are protected by law, customs and expectations.",
+    answer: "True",
   },
 ];
 

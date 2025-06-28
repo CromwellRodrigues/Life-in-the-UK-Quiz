@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import allFlashcards from "./flashcards";
 import Confetti from "react-confetti";
 
-const NUM_QUESTIONS = 5;
+const NUM_QUESTIONS = 24;
 
 const getRandomFlashcards = () => {
   return [...allFlashcards]

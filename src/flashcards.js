@@ -345,7 +345,7 @@ const allFlashcards = [
     id: "55",
     question: "Where is the London Eye situated?",
     answer:
-      "The London Eye is situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall.",
+      "The London Eye is situated on the southern bank of the River Thames and is a Ferris wheel that is 443 feet (135 metres) tall. The London Eye was originally built as part of the UK’s celebration of the new millennium and continues to be an important part of New Year celebrations.",
   },
   {
     id: "56",
@@ -395,7 +395,7 @@ const allFlashcards = [
     question:
       "How much can you be fined if you watch TV but do not have a TV licence?",
     answer:
-      "You will receive a fine up to £1,000 if you watch TV but do not have a TV licence.",
+      "You will receive a fine up to £1,000 if you watch TV but do not have a TV licence. Everyone in the UK with a TV, computer or other medium which can be used for watching TV must have a television licence.",
   },
   {
     id: "63",
@@ -423,7 +423,7 @@ const allFlashcards = [
     question:
       "The small claims procedure is used in England and Wales for minor disputes for:",
     answer:
-      "This procedure is used for claims of less than £10,000 in England and Wales and £3,000 in Scotland and Northern Ireland.",
+      "This procedure is used for claims of less than £10,000 in England and Wales and £3,000 in Scotland and Northern Ireland.You can get details about the small claims procedure from your local County Court or Sheriff Court.",
   },
   {
     id: "67",
@@ -454,7 +454,7 @@ const allFlashcards = [
   {
     id: "71",
     question: "In which British university did Isaac Newton study?",
-    answer: "Isaac Newton studied at Cambridge University.",
+    answer: "Isaac Newton studied at Cambridge University. Isaac Newton was born in Lincolnshire, eastern England. Isaac Newton most famous published work was Philosophiae Naturalis Principia Mathematica (‘Mathematical Principle of Natural Philosophy’), which showed how gravity applied to the whole universe.",
   },
   {
     id: "72",
@@ -500,7 +500,7 @@ const allFlashcards = [
     id: "78",
     question:
       "Forcing another person to marry is a criminal offence: True or False?",
-    answer: "Forcing another person to marry is a criminal offence.",
+    answer: "Forcing another person to marry is a criminal offence. Selling tobacco to anyone under the age of 18 and drinking in public are examples of criminal offences.",
   },
   {
     id: "79",
@@ -628,7 +628,7 @@ const allFlashcards = [
     id: "98",
     question:
       "Who was the first person to lead a Roman invasion in Britain in 55 BC?",
-    answer: "Julius Caesar led a Roman invasion of Britain in 55 BC.",
+    answer: "Julius Caesar led a Roman invasion of Britain in 55 BC. This was unsuccessful and for nearly 100 years Britain remained separate from the Roman Empire.",
   },
   {
     id: "99",
@@ -677,7 +677,7 @@ const allFlashcards = [
     question:
       "What is the first verse of the National Anthem of the UK ‘God save the King’?",
     answer:
-      "The first verse of the National Anthem of the UK is ‘God save our gracious King!.",
+      "The first verse of the National Anthem of the UK is ‘God save our gracious King!. Long live our noble King! is the second sentence of the National Anthem of the UK.",
   },
   {
     id: "106",
@@ -713,7 +713,7 @@ const allFlashcards = [
     id: "111",
     question: "What is the money from TV licences used for?",
     answer:
-      "This is a public service broadcaster providing television and radio programmes. The BBC is the largest broadcaster in the world. It is the only wholly state-funded media organisation that is independent of government.",
+      "This is a public service broadcaster providing television and radio programmes. The BBC is the largest broadcaster in the world. It is the only wholly state-funded media organisation that is independent of government. The BBC started radio broadcasts in 1922 and began the world’s first regular television service in 1936.",
   },
   {
     id: "112",
@@ -746,7 +746,7 @@ const allFlashcards = [
     id: "116",
     question: "Who has to pay national insurance contributions in the UK?",
     answer:
-      "Almost everybody in the UK who is in paid work, including self-employed people, must pay National Insurance Contributions.",
+      "Almost everybody in the UK who is in paid work, including self-employed people, must pay National Insurance Contributions. The money raised from National Insurance Contributions is used to pay for state benefits and services such as the state retirement pension and the National Health Service (NHS).",
   },
   {
     id: "117",
@@ -855,7 +855,7 @@ const allFlashcards = [
     id: "132",
     question: "Florence Nightingale was known for her work on:",
     answer:
-      "Florence Nightingale is often regarded as the founder of modern nursing.",
+      "Florence Nightingale is often regarded as the founder of modern nursing. She was a nurse who worked in military hospitals, treating soldiers who were fighting in the Crimean War. From 1853 to 1856, Britain fought with Turkey and France against Russia in the Crimean War.",
   },
 
   {
@@ -863,7 +863,7 @@ const allFlashcards = [
     question:
       "Which Act abolished slavery throughout the British Empire in 1833?",
     answer:
-      "In 1833 the Emancipation Act abolished slavery throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders.",
+      "In 1833 the Emancipation Act abolished slavery throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders. The first formal anti-slavery groups were set up by the Quakers in the late 1700s, and they petitioned Parliament to ban the practice. Slaves came primarily from West Africa.",
   },
 
   {
@@ -1008,7 +1008,7 @@ const allFlashcards = [
     id: "154",
     question: "What is the main function of the Council of Europe?",
     answer:
-      "The Council of Europe is responsible for the protection and promotion of human rights in its member countries. The Council of Europe is separated from the EU. It has 47 member countries, including the UK, ",
+      "The Council of Europe is responsible for the protection and promotion of human rights in its member countries. The Council of Europe is separated from the EU. It has 47 member countries, including the UK. The Council of Europe has NO power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms, usually called the European Convention on Human Rights.",
   },
 
   {
@@ -1045,7 +1045,7 @@ const allFlashcards = [
     question:
       "Which TWO  social laws were liberalised during the ‘Swinging Sixties’? ",
     answer:
-      "The law of abortion and the law of divorce were liberalised during the ‘Swinging Sixties’. ",
+      "The law of abortion and the law of divorce were liberalised during the ‘Swinging Sixties’. The decade of the 1960s was a period of significant social change. It was known as the ‘swinging sixties’. There was growth in British fashion, cinema and popular music. ",
   },
 
   {
@@ -1096,7 +1096,7 @@ const allFlashcards = [
     question:
       "Which two languages combined form the basis of the English language?",
     answer:
-      "After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language.",
+      "After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language. The Norman Conquest was the last successful foreign invasion of England and led to many changes in government and social structures in England.",
   },
   {
     id: "168",
@@ -1151,7 +1151,7 @@ const allFlashcards = [
     question:
       "Who wrote an oratorio called ‘Messiah’, which is regularly sung by choirs at Easter time?",
     answer:
-      "George Frederick Handel wrote an oratorio, Messiah, which is sung regularly by choirs, often at Easter time.",
+      "George Frederick Handel wrote an oratorio, Messiah, which is sung regularly by choirs, often at Easter time. George Frederick Handel wrote the Water Music for King George I and Music for the Royal Fireworks for his son, George II.",
   },
   {
     id: "177",
@@ -1169,7 +1169,7 @@ const allFlashcards = [
     id: "179",
     question: "Which social change took place during the ‘Swinging Sixties’?",
     answer:
-      "The position of women in the workplace was improved during the ‘Swinging Sixties’.",
+      "The position of women in the workplace was improved during the ‘Swinging Sixties’. The decade of the 1960s was a period of significant social change. It was known as the ‘swinging sixties’. There was growth in British fashion, cinema and popular music.",
   },
   {
     id: "180",
@@ -1181,7 +1181,7 @@ const allFlashcards = [
     id: "181",
     question: "What are pantomimes based on?",
     answer:
-      "Pantomimes are based on fairy stories and are light-hearted plays with music and comedy, enjoyed by family audiences. Many theatres produce a pantomime at Christmas time.",
+      "Pantomimes are based on fairy stories and are light-hearted plays with music and comedy, enjoyed by family audiences. Many theatres produce a pantomime at Christmas time. One of the traditional characters of the pantomimes is the Dame, a woman played by a man.",
   },
   {
     id: "182",
@@ -1235,7 +1235,7 @@ const allFlashcards = [
     id: "190",
     question: "Which is the oldest tennis tournament in the world?",
     answer:
-      "The most famous tournament hosted in Britain is The Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club. It is the oldest tennis tournament in the world and the only ‘Grand Slam’ event played on grass.",
+      "The most famous tournament hosted in Britain is The Wimbledon Championships, which takes place each year at the All England Lawn Tennis and Croquet Club. It is the oldest tennis tournament in the world and the only ‘Grand Slam’ event played on grass. Modern tennis evolved in England in the late 19th century.",
   },
   {
     id: "191",
@@ -1280,7 +1280,7 @@ const allFlashcards = [
     question:
       "Under which Act was the United Kingdom of Great Britain and Northern Ireland created?",
     answer:
-      "In 1801, Ireland became unified with England, Scotland and Wales after the Act of Union of 1800. This created the United Kingdom of Great Britain and Ireland.",
+      "In 1801, Ireland became unified with England, Scotland and Wales after the Act of Union of 1800. This created the United Kingdom of Great Britain and Ireland. The Act of Union, known as the Treaty of Union in Scotland, was therefore agreed in 1707, creating the Kingdom of Great Britain.",
   },
   {
     id: "198",
@@ -1438,7 +1438,7 @@ const allFlashcards = [
     question:
       "A person who has not paid enough National Insurance contributions will not be able to receive certain contributory benefits including :",
     answer:
-      "Anyone who does not pay enough National Insurance Contributions will not be able to receive certain contributory benefits such as Jobseeker’s Allowance or a full state retirement pension.",
+      "Anyone who does not pay enough National Insurance Contributions will not be able to receive certain contributory benefits such as Jobseeker’s Allowance or a full state retirement pension. The money raised from National Insurance Contributions is used to pay for state benefits and services such as the state retirement pension and the National Health Service (NHS).",
   },
 
   {
@@ -1482,7 +1482,7 @@ const allFlashcards = [
     id: "228",
     question: "Which TWO forts form part of Hadrian’s Wall?",
     answer:
-      "Parts of Hadrian’s Wall include the forts of Housesteads and Vindolanda.",
+      "Parts of Hadrian’s Wall include the forts of Housesteads and Vindolanda. Areas of what is now Scotland were never conquered by the Romans, and the Emperor Hadrian built a wall in the north of England to keep out the Picts (ancestors of the Scottish people). The wall was built in AD 122 and ran from Wallsend on the River Tyne to Bowness-on-Solway on the Solway Firth.",
   },
 
   {
@@ -1647,7 +1647,7 @@ const allFlashcards = [
     id: "261",
     question:
       "Is it  illegal and a criminal offence to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18. True or False?",
-    answer: "True",
+    answer: "True. Selling tobacco to anyone under the age of 18 and drinking in public are examples of criminal offences.",
   },
   {
     id: "262",
@@ -1687,7 +1687,7 @@ const allFlashcards = [
     question:
       "Who was in charge of the British fleet at the Battle of Trafalgar?",
     answer:
-      "Admiral Nelson was in charge of the British fleet at Trafalgar and was killed in the battle.Admiral Nelson’s ship was known as the HMS Victory.",
+      "Admiral Nelson was in charge of the British fleet at Trafalgar and was killed in the battle. Admiral Nelson’s ship was known as the HMS Victory. Admiral Nelson’s ship, HMS Victory, can be visited in Portsmouth.Britain’s navy fought against combined French and Spanish fleets, winning the Battle of Trafalgar in 1805.",
   },
   {
     id: "268",
@@ -1768,7 +1768,7 @@ const allFlashcards = [
     id: "280",
     question: "How many devolved administrations are there in the UK?",
     answer:
-      "There are three devolved administrations in the UK, these include: the Welsh government, the Scottish Parliament and the Northern Ireland Assembly.",
+      "There are three devolved administrations in the UK, these include: the Welsh government, the Scottish Parliament and the Northern Ireland Assembly. Scotland, Wales and Northern Ireland also have parliaments or assemblies of their own, with devolved powers in defined areas.",
   },
   {
     id: "281",
@@ -1894,7 +1894,7 @@ const allFlashcards = [
     id: "299",
     question: "How long do Muslims fast for during Ramadan?",
     answer:
-      "Eid a-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month.",
+      "Eid a-Fitr celebrates the end of Ramadan, when Muslims have fasted for a month. The day when Muslims thank Allah for giving them the strength to complete the fast is called Eid a-Fitr.",
   },
   {
     id: "300",
@@ -2052,7 +2052,7 @@ const allFlashcards = [
     question:
       "The Battle of Hastings is commemorated in a great piece of embroidery, which is known as:",
     answer:
-      "The Battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux tapestry, which can still be seen in France today.",
+      "The Battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux tapestry, which can still be seen in France today. The Bayeux Tapestry is nearly 70 metres (230 feet) long and is embroidered with coloured wool. In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle.",
   },
   {
     id: "326",
@@ -2154,14 +2154,14 @@ const allFlashcards = [
     question:
       "What do new citizens have to swear or affirm as part of the citizenship ceremony?",
     answer:
-      "New citizens swear or affirm loyalty to the King as part of the citizenship ceremony.",
+      "New citizens swear or affirm loyalty to the King as part of the citizenship ceremony. As part of the citizenship ceremony, new citizens pledge their loyalty to the United Kingdom and to respect its rights and freedoms.",
   },
   {
     id: "542",
     question:
       "In which TWO cases may a person who has been summoned to do jury service be exempted from doing it:",
     answer:
-      "Everyone who is summoned to do jury service must do it unless they are not eligible (for example, because they have a criminal conviction) or they provide a good reason to be excused, such as ill health.",
+      "People on the electoral register with ages between 18 and 70 can be asked to serve on a jury. Everyone who is summoned to do jury service must do it unless they are not eligible (for example, because they have a criminal conviction) or they provide a good reason to be excused, such as ill health.",
   },
   {
     id: "543",
@@ -2289,7 +2289,7 @@ const allFlashcards = [
     question:
       "Which was one of the most famous battles of the Hundred Years War?",
     answer:
-      "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V’s vastly outnumbered English army defeated the French. The English left France in the 1450s.",
+      "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V’s vastly outnumbered English army defeated the French. The English left France in the 1450s. English kings fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years). The war was fought over the English claim to the French throne and control of the English Channel.",
   },
   {
     id: "562",
@@ -2308,7 +2308,7 @@ const allFlashcards = [
   {
     id: "564",
     question: "Membership to the Commonwealth is compulsory for its members:",
-    answer: "False. Membership to the Commonwealth is voluntary.",
+    answer: "False. Membership to the Commonwealth is voluntary.Bangladesh, Ghana, Cyprus, Sierra Leone, Swaziland, Trinidad & Tobago, Dominica, Nauru are members of the Commonwealth.",
   },
   {
     id: "565",
@@ -2395,7 +2395,7 @@ const allFlashcards = [
     id: "578",
     question:
       "The Reform Act of 1832 abolished the old pocket and rotten boroughs. True or False?",
-    answer: "True",
+    answer: "True. The Reform Act of 1832 had greatly increased the number of people with the right to vote. The act also abolished the old pocket and rotten boroughs and more parliamentary seats were given to the towns and cities.",
   },
 
   {
@@ -2462,7 +2462,7 @@ const allFlashcards = [
     id: "589",
     question:
       "Which of the following is NOT a World Heritage Site? The London Eye, Stonehenge, The forts of Housesteads and Vindolanda,The Houses of Parliament",
-    answer: "The London Eye is not a World Heritage Site.",
+    answer: "The London Eye is not a World Heritage Site. The London Eye was originally built as part of the UK’s celebration of the new millennium and continues to be an important part of New Year celebrations.",
   },
   {
     id: "590",
@@ -2534,7 +2534,7 @@ const allFlashcards = [
     id: "601",
     question: "Who defeated the French at the battle of Agincourt in 1415?",
     answer:
-      "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V’s vastly outnumbered English army defeated the French.",
+      "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V’s vastly outnumbered English army defeated the French. English kings fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years).",
   },
   {
     id: "602",
@@ -2569,7 +2569,7 @@ const allFlashcards = [
     question:
       "Which British Prime Minister nationalized major industries including coal and steel?",
     answer:
-      "Clement Attlee’s government undertook the nationalisation of major industries (like coal and steel), created the National Health Service and implemented many of Beveridge’s plans for a stronger welfare state. Attlee also introduced measures to improve the conditions of workers.",
+      "Clement Attlee’s government undertook the nationalisation of major industries (like coal and steel), created the National Health Service and implemented many of Beveridge’s plans for a stronger welfare state. Attlee also introduced measures to improve the conditions of workers. Clement Attlee was Prime Minister from 1945 to 1951 and led the Labour Party for 20 years.",
   },
   {
     id: "607",
@@ -2948,7 +2948,7 @@ const allFlashcards = [
     id: "656",
     question: "Which British scientist led the development of the atomic bomb?",
     answer:
-      "Scientists led by Ernest Rutherford, working at Manchester and then Cambridge University, were the first to ‘split the atom’ and took part in the Manhattan Project in the United States, which developed the atomic bomb.",
+      "Scientists led by Ernest Rutherford, working at Manchester and then Cambridge University, were the first to ‘split the atom’ and took part in the Manhattan Project in the United States, which developed the atomic bomb. The Manhattan project was the name of the project through which the atomic bomb was developed",
   },
   {
     id: "657",
@@ -2974,14 +2974,14 @@ const allFlashcards = [
     id: "660",
     question: "What is the most well-known rugby league (club) competition?",
     answer:
-      "The Super League is the most well-known rugby league (club) competition.",
+      "The Super League is the most well-known rugby league (club) competition.There are two different types of rugby, which have different rules: union and league. Rugby union is the most popular type of rugby in Wales, Scotland and Ireland, while rugby league is more popular in the north of England. Rugby originated in England in the early 19th century and is very popular in the UK today.",
   },
   {
     id: "661",
     question:
       "How old was the Queen of Scotland, Mary Stuart, when she became queen?",
     answer:
-      "The queen of Scotland, Mary Stuart (often now called ‘Mary, Queen of Scots’) was a Catholic. She was only a week old when her father died and she became queen.",
+      "The queen of Scotland, Mary Stuart (often now called ‘Mary, Queen of Scots’) was a Catholic. She was only a week old when her father died and she became queen. Mary Stuart, the Queen of Scotland, spent most of her childhood in France.",
   },
 
   {
@@ -3047,7 +3047,7 @@ const allFlashcards = [
     question:
       "Which TWO of Henry VIII’s wives were accused of taking lovers and executed?",
     answer:
-      "Anne Boleyn and Catherine Howard were accused of taking lovers and executed.",
+      "Anne Boleyn and Catherine Howard were accused of taking lovers and executed. Anne Boleyn was executed at the tower of London.",
   },
   {
     id: "672",
@@ -3111,14 +3111,14 @@ const allFlashcards = [
     question:
       "A National Insurance number does on its own prove to an employer that you have the right to work in the UK: True or False",
     answer:
-      "False. A National Insurance number does not on its own prove to an employer that you have the right to work in the UK.",
+      "False. A National Insurance number does not on its own prove to an employer that you have the right to work in the UK. A non-UK national living in the UK and looking for work, starting work or setting up as self-employed will need a National Insurance number. However, you can start work without one.",
   },
   {
     id: "672",
     question:
       "Which is the ceremonial role to be undertaken by the King every year?",
     answer:
-      "The King has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government’s policies for the year ahead.",
+      "The King has important ceremonial roles, such as the opening of the new parliamentary session each year. On this occasion the King makes a speech which summarises the government’s policies for the year ahead.The King represents the UK to the rest of the world.",
   },
   {
     id: "673",
@@ -3248,7 +3248,7 @@ const allFlashcards = [
     question:
       "When did Ireland become unified with England, Wales and Scotland?",
     answer:
-      "In 1801, Ireland became unified with England, Scotland and Wales after the Act of Union of 1800. This created the United Kingdom of Great Britain and Ireland.",
+      "At the beginning of the Middle Ages, Ireland was an independent country. In 1801, Ireland became unified with England, Scotland and Wales after the Act of Union of 1800. This created the United Kingdom of Great Britain and Ireland. The Act of Union, known as the Treaty of Union in Scotland, was therefore agreed in 1707, creating the Kingdom of Great Britain.",
   },
   {
     id: "692",
@@ -3286,7 +3286,7 @@ const allFlashcards = [
     id: "697",
     question:
       "During Halloween people carve lanterns out of ______ and put a candle inside of them.",
-    answer: "Pumpkins",
+    answer: "Pumpkins. Halloween, 31 October, is and ancient festival and has roots in the pagan festival to mark the beginning of winter.",
   },
   {
     id: "698",
@@ -3344,7 +3344,7 @@ const allFlashcards = [
   {
     id: "705",
     question: "What is the currency in the UK?",
-    answer: "The currency in the UK is the pound sterling (symbol £).",
+    answer: "The currency in the UK is the pound sterling (symbol £).There are 100 pence in a pound.",
   },
   {
     id: "706",
@@ -3488,7 +3488,7 @@ const allFlashcards = [
     id: "728",
     question:
       "In the UK, many people continue to visit the countryside for holidays and for leisure activities such as walking, camping and fishing: True or False",
-    answer: "True",
+    answer: "True. Most people live in towns and cities but much of Britain is still countryside.",
   },
   {
     id: "729",
@@ -3500,8 +3500,8 @@ const allFlashcards = [
   {
     id: "730",
     question:
-      "Which of the following countries is NOT a member of the Commonwealth? Uganda, Ghana, Malawi, Zimbabwe ",
-    answer: "Zimbabwe is not a member of the Commonwealth.",
+      "Which countries is NOT a member of the Commonwealth? Uganda, Ghana, Malawi, Zimbabwe, Costa Rica  ",
+    answer: "Zimbabwe, Costa Rica is not a member of the Commonwealth.",
   },
   {
     id: "731",
@@ -3532,7 +3532,7 @@ const allFlashcards = [
     id: "735",
     question: "What do you need to drive a car in the UK?",
     answer:
-      "To drive a car in the UK you need a driving licence, a valid motor insurance, a MOT certificate (for cars over three years old) and the road tax.",
+      "To drive a car in the UK you need a driving licence, a valid motor insurance, a MOT certificate (for cars over three years old) and the road tax. If you vehicle is over three years old, you must take it to the Ministry of Transport (MOT) test every year. You must also wear a seat belt and ensure that any passengers under 14 years of age are wearing a seat belt or using an appropriate child restraint. It is an offence not to have an MOT certificate if your vehicle is more than THREE years old or without car insurance.",
   },
   {
     id: "736",
@@ -3544,7 +3544,7 @@ const allFlashcards = [
   {
     id: "737",
     question: "Who defeated the Vikings?",
-    answer: "King Alfred the Great defeated the Vikings.",
+    answer: "King Alfred the Great defeated the Vikings. The Vikings came from Denmark and Norway.",
   },
   {
     id: "738",
@@ -3590,7 +3590,7 @@ const allFlashcards = [
     id: "745",
     question: "Who were the suffragettes?",
     answer:
-      "The suffragettes were a group who used civil disobedience to gain the vote for women.",
+      "The suffragettes were a group who used civil disobedience to gain the vote for women. In 1903 Emmeline Pankhurst helped found the Women’s Social and Political Union (WSPU). This was the first group whose members were called ‘suffragettes’.",
   },
   {
     id: "746",
@@ -3684,7 +3684,7 @@ const allFlashcards = [
     question:
       "When did the Vikings first visit Britain to raid coastal towns and take away goods and slaves?",
     answer:
-      "The Vikings came from Denmark and Norway. They first visited Britain in AD 789 to raid coastal towns and take away goods and slave",
+      "The Vikings came from Denmark and Norway. They first visited Britain in AD 789 to raid coastal towns and take away goods and slave. King Alfred the Great defeated the Vikings. ",
   },
   {
     id: "760",
@@ -3705,7 +3705,7 @@ const allFlashcards = [
     question:
       "The devolved governments in Scotland, Wales and Northern Ireland cannot control policies and laws governing taxation and social security: True or False",
     answer:
-      "True Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. However, many other public services, such as education, are controlled by the devolved administrations.",
+      "True Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. Devolved governments in Scotland, Wales and Northern Ireland have the power to legislate on certain issues.  However, many other public services, such as education, are controlled by the devolved administrations.",
   },
   {
     id: "763",
@@ -3779,7 +3779,7 @@ const allFlashcards = [
 
     question:
       "The right to life and the right to liberty and security are some of the principles included in the European Convention of Human Rights:",
-    answer: "True",
+    answer: "True. The Human Rights Act 1998 incorporated the European Convention of Human Rights into UK law.Prohibition of torture, Prohibition of slavery and forced labour are principles included in the European Convention of Human Rights. The right to a fair trial is one of the principles of the European Convention of Human Rights. The UK was one of the first countries to sign the European Convention of Human Rights in 1950. Slaves came primarily from West Africa.",
   },
   {
     id: "774",
@@ -3787,6 +3787,531 @@ const allFlashcards = [
       "British values and principles are based on history and traditions and are protected by law, customs and expectations.",
     answer: "True",
   },
+  {
+    id: "775",
+    question:
+      "When did the first Christian communities begin to appear in Britain?",
+    answer:
+      "It was during the 3rd and 4th centuries AD that the first Christian communities began to appear in Britain.",
+  },
+
+  {
+    id: "776",
+    question: "Name the three devolved administrations in the UK",
+    answer:
+      "There are three devolved administrations in the UK, this include: the Welsh government, the Scottish Parliament and the Northern Ireland Assembly.",
+  },
+  {
+    id: "777",
+    question: "Who looks after Edinburgh Castle?",
+    answer: "Edinburgh castle is a dominant feature of the skyline in Edinburgh, Scotland. It has a long history, dating back to the early Middle Ages. It is looked after by Historic Environment Scotland.",
+  },
+
+  {
+    id: "778",
+    question: "Each MP represents a parliamentary constituency, which is a small area of the country. True or False",
+    answer: "True",
+  },
+    {
+    id: "779",
+    question: "Who were the pioneers of the IVF (in-vitro fertilisation) therapy?",
+    answer: "IVF (in-vitro fertilisation) therapy for the treatment of infertility was pioneered in Britain by physiologist Sir Robert Edwards (1925-) and gynaecologist Patrick Steptoe (1913-88). The world’s first ‘test-tube baby’ was born in Oldham, Lancashire in 1978.",
+  },
+      {
+    id: "780",
+    question: "Name the countries were granted their independence in 1947",
+    answer: "In 1947, independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka).",
+  },
+       {
+    id: "781",
+    question: "In the UK, bank holidays of no religious significance are celebrated at the beginning of May, in late May or early June, and in August. True or False",
+    answer: "True",
+  },
+
+         {
+    id: "782",
+    question: "Who were the Puritans?",
+    answer: "The Puritans were a group of Protestants who advocated strict and simple religious doctrine and worship. They did not agree with the king’s religious views and disliked his reforms of the Church of England.",
+  },
+
+  
+         {
+    id: "783",
+    question: "What do William Blake, John Keats and Lord Byron have in common?",
+    answer: "Poetry was very popular in the 19th century, with poets such as William Blake, John Keats, Lord Byron, Percy Shelley, Alfred Lord Tennyson, and Robert and Elizabeth Browning.",
+  },
+  {
+    id: "784",
+    question: "An additional rented piece of land where people can grow fruit and vegetables is known as:",
+    answer: "In the UK, some people rent additional land called ‘an allotment’, where they grow fruit and vegetables.",
+  },
+  {
+    id: "785",
+    question: "What is the name of the battle where the Scottish led by Robert the Bruce defeated the English in 1314?",
+    answer: "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn.",
+  },
+  {
+    id: "786",
+    question: "Who took the English throne after the death of Henry VIII?",
+    answer: "Henry VIII was succeeded by his son Edward VI.",
+  },
+  {
+    id: "787",
+    question: "Carrying a weapon is a criminal offence, unless it is for self-defence: True or False",
+    answer: "False. It is a criminal offence to carry a weapon of any kind, even if it is for self-defence. This includes a gun, a knife or anything that is made or adapted to cause injury",
+  },
+  {
+    id: "788",
+    question: "Prohibition of thought, conscience and religion is one of the principles included in the European Convention of Human Rights: True or False",
+    answer: "False. Freedom of thought, conscience and religion is one of the principles included in the European Convention of Human Rights.",
+  },
+  {
+    id: "789",
+    question: "Which TWO pop music groups became popular in the 1960s?",
+    answer: "Two well-known pop music groups in the 1960s were The Beatles and The Rolling Stones.",
+  },
+  {
+    id: "790",
+    question: "Which of the following words comes from the Viking language? Table, Scunthorpe, Pencil, Rabbit",
+    answer: "Words such as Grimsby and Scunthorpe come from the Viking languages.",
+  },
+  {
+    id: "791",
+    question: "What is the name of the highest mountain in Wales?",
+    answer: "Snowdon is the highest mountain in Wales.",
+  },
+  {
+    id: "792",
+    question: "Who led a Scottish army against Oliver Cromwell just after England had been declared a Republic?",
+    answer: "Charles II was crowned king of Scotland and led a Scottish army into England. Cromwell defeated this army in the Battles of Dunbar and Worcester. After Oliver Cromwell defeated the Scottish army in the Battles of Dunbar and Worcester, Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe.",
+  },
+  {
+    id: "793",
+    question: "When are local elections for councillors held in most local authorities?",
+    answer: "For most local authorities, local elections for councillors are held in May every year.",
+  },
+  {
+    id: "794",
+    question: "Which lines form part of the citizenship pledge?",
+    answer: "I will give my loyalty to the United Kingdom. I will uphold its democratic values. I will observe its laws faithfully. ",
+  },
+   {
+    id: "795",
+    question: "Protected by the laws of discrimination?",
+    answer: "UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status. ",
+  },
+  {
+    id: "796",
+    question: "In the UK, if the jury finds a defendant guilty, the judge decides the penalty: True or False",
+    answer: "True",
+  },
+  {
+    id: "797",
+    question: "During the Crusades, European Christians fought for the control of:",
+    answer: "European Christians fought for control of the Holy Land.",
+  },
+   {
+    id: "798",
+    question: "The line ‘to be or not to be’ belongs to which of the plays or poems written by William Shakespeare?",
+    answer: "‘To be or not to be’ is a line from William Shakespeare’s play Hamlet.",
+  },
+  {
+    id: "799",
+    question: "Charles I wanted the worship of the Church of England to include more ceremony and introduced a revised Prayer Book. True or False ?",
+    answer: "This statement is true.",
+  },
+  {
+    id: "800",
+    question: "Who supported the Parliament during the Civil War that began in 1642?",
+    answer: "The Roundheads. A civil war between the king and Parliament began in 1642.  The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+  },
+   {
+    id: "801",
+    question: "Which poet wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England?",
+    answer: "Sir Walter Scott wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England",
+  },
+  {
+    id: "802",
+    question: "A system of government where the whole adult population gets a say is known as:",
+    answer: "Democracy is a system of government where the whole adult population gets a say. This might be by direct voting or by choosing representatives to make decisions on their behalf.",
+  },
+  {
+    id: "803",
+    question: "Arranged marriages refer to marriages where both parties agree to the marriage ?",
+    answer: "Correct. Arranged marriages refer to marriages where both parties agree to the marriage,are acceptable in the UK.",
+  },
+   {
+    id: "804",
+    question: "What name is given to the members of the House of Commons?",
+    answer: "All of the elected MPs form the House of Commons.",
+  },
+  {
+    id: "805",
+    question: "Who was the first person to print books using a printing press in England?",
+    answer: "",
+  },
+  {
+    id: "806",
+    question: "Which TWO British kings believed in the ‘Divine Right of Kings’?",
+    answer: "James I and his son Charles I both believed in the ‘Divine Right of Kings’: the idea that the king was directly appointed by God to rule. They thought that the king should be able to act without having to seek approval from Parliament.",
+  },
+   {
+    id: "807",
+    question: "What was the name of the European Union when it was first established?",
+    answer: "West Germany, France, Belgium, Italy, Luxembourg and the Netherlands formed the European Economic Community (EEC) in 1957. The EEC became a part of the European Union when it was formed in 1993.",
+  },
+  {
+    id: "808",
+    question: "Which  British poet was inspired by nature?",
+    answer: "William Wordsworth was inspired by nature.",
+  },
+  {
+    id: "809",
+    question: "After the Second World War, the UK was exhausted economically. True or False",
+    answer: "True. Although the UK had won the war, the country was exhausted economically after WWII.",
+  },
+   {
+    id: "810",
+    question: "Where is the Scottish Grand National horse racing event celebrated?",
+    answer: "The Scottish Grand National horse racing event is celebrated at Ayr.",
+  },
+  {
+    id: "811",
+    question: "The responsibility of the MPs?",
+    answer: "MPs have a number of different responsibilities. They represent everyone in their constituency, help to create new laws, scrutinize and comment on what the government is doing and debate important national issues.",
+  },
+  {
+    id: "812",
+    question: "When Henry VIII took the title ‘King of Ireland’, English laws were introduced and everyone except for local leaders were expected to follow the instructions of the Lord Lieutenants in Dublin: True or False",
+    answer: "When Henry VIII took the title ‘King of Ireland’, English laws were introduced and local leaders were expected to follow the instructions of the Lord Lieutenants in Dublin.",
+  },
+   {
+    id: "813",
+    question: "When is the anniversary of the Battle of the Boyne celebrated in Northern Ireland?",
+    answer: "In Northern Ireland, the anniversary of the Battle of the Boyne is celebrated in July and is also a public holiday.",
+  },
+  {
+    id: "814",
+    question: "When was Lincoln Cathedral built?",
+    answer: "Lincoln Cathedral was built in the middle ages or medieval times.",
+  },
+  {
+    id: "815",
+    question: "Why was Queen Mary known as ‘Bloody Mary’?",
+    answer: "Queen Mary was a devout Catholic and persecuted Protestants (for this reason, she became known as ‘Bloody Mary’).",
+  },
+  {
+    id: "816",
+    question: "In the UK, brutality and violence in the home is not a crime: True or False",
+    answer: "In the UK, brutality and violence in the home is a serious crime.",
+  },
+  {
+    id: "817",
+    question: "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them: True or False",
+    answer: "True",
+  },
+   {
+    id: "818",
+    question: "During the Middle Ages, several cathedrals had windows of stained glass, telling stories about:",
+    answer: "During the middle ages, several cathedrals had windows of stained glass, telling stories about the Bible and Christian saints. The glass in York Minster is a famous example.",
+  },
+  {
+    id: "819",
+    question: "The Senedd has been suspended on a few occasions: True or False",
+    answer: "False. The Northern Ireland Assembly has been suspended on a few occasions.",
+  },
+  {
+    id: "820",
+    question: "The settlements of Scottish and English Protestants in Ulster (the northern province of Ireland) during the reigns of Elizabeth I and James I, who took over the land from Catholic landholders is known as:",
+    answer: "These settlements were known as plantations.",
+  },
+   {
+    id: "821",
+    question: "After King Alfred the Great defeated the Vikings, many of the Viking invaders stayed in Britain, especially in the east and north of England in an area called:",
+    answer: "Many of the Viking invaders stayed in Britain – especially in the east and north of England in an area known as the Danelaw.",
+  },
+  {
+    id: "822",
+    question: "Who is the head of the Church of England?",
+    answer: "The monarch is the head of the Church of England.",
+  },
+  {
+    id: "823",
+    question: "Who is responsible for managing relationships with foreign countries?",
+    answer: "The Foreign Secretary is responsible for managing relationships with foreign countries.",
+  },
+  {
+    id: "824",
+    question: "When did Gordon Brown take over as Prime Minister from his predecessor Tony Blair?",
+    answer: "Gordon Brown took over as Prime Minister from Tony Blair in 2007.",
+  },
+  {
+    id: "825",
+    question: "Where in England was one of the Anglo-Saxon kings buried with treasure and armour?",
+    answer: "The burial place of one of the Anglo-Saxon kings was at Sutton Hoo in modern Suffolk.",
+  },
+   {
+    id: "826",
+    question: "Which British writer wrote satirical novels including Brideshead Revisited?",
+    answer: "Evelyn Waugh wrote satirical novels, including Decline and Fall and Scoop. He is perhaps best known for Brideshead Revisited.",
+  },
+  {
+    id: "827",
+    question: "Which of the sports began in the UK?",
+    answer: "Many famous sports, including cricket, football, lawn tennis, golf and rugby, began in Britain.",
+  },
+  {
+    id: "828",
+    question: "Which famous architect designed Dumfries House?",
+    answer: "The Scottish architect Robert Adam designed the inside decoration as well as the building itself in great houses such as Dumfries House in Scotland.",
+  },
+   {
+    id: "829",
+    question: "What did the Education Act of 1944 introduce?",
+    answer: "The Education Act 1944 (often called ‘The Butler Act’), introduced free secondary education in England and Wales.",
+  },
+  {
+    id: "830",
+    question: "Which of the  tribes invaded Britain?",
+    answer: "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned. Britain was again invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons.",
+  },
+  {
+    id: "831",
+    question: "Many schools organise events such as book sales, toy sales or bringing food to sell to raise money for extra equipment or out-of-school activities. True or False",
+    answer: "This statement is TRUE",
+  },
+  {
+    id: "832",
+    question: "Who wrote the novel Charlie and the Chocolate Factory?",
+    answer: "Roald Dahl is the author of Charlie and the Chocolate Factory.",
+  },
+  {
+    id: "833",
+    question: "Who were the Huguenots?",
+    answer: "Between 1680 and 1720 many refugees called Huguenots came from France. They were Protestants and had been persecuted for their religion. Many were educated and skilled and worked as scientists, in banking, or in weaving or other crafts.",
+  },
+   {
+    id: "834",
+    question: "When is Mothering Sunday?",
+    answer: "Mothering Sunday (or Mother’s day) is the Sunday three weeks before Easter. Children send cards or buy gifts for their mothers.",
+  },
+  {
+    id: "835",
+    question: "Which countries fought alongside Britain against Russia during the Crimean War?",
+    answer: "From 1853 to 1856, Britain fought with Turkey and France against Russia in the Crimean War.",
+  },
+  {
+    id: "836",
+    question: "On average, boys leave school with better qualifications than girls.",
+    answer: "False. On average, girls leave school with better qualifications than boys.",
+  },
+   {
+    id: "837",
+    question: "When did William of Orange invade England to proclaim himself king?",
+    answer: "In 1688, important Protestants in England asked William of Orange to invade England and proclaim himself king. When William reached England, there was no resistance. James fled to France and William took over the throne, becoming William III in England, Wales and Ireland, and William II of Scotland.",
+  },
+   {
+    id: "838",
+    question: "Which British painter is considered to be the artist who raised the profile of landscape painting?",
+    answer: "Joseph Turner (1775-1851) was an influential landscape painter in a modern style. He is considered the artist who raised the profile of landscape painting.",
+  },
+  {
+    id: "839",
+    question: "The development of the Bessemer process during the Industrial Revolution led to the development of which two industries:",
+    answer: "The development of the Bessemer process for the mass production of steel led to the development of the shipbuilding industry and the railways.",
+  },
+  {
+    id: "840",
+    question: "More women than men study at university. True or False",
+    answer: "This statement is TRUE.",
+  },
+  {
+    id: "841",
+    question: "Why did Ireland suffer a famine in the middle of the 19th century?",
+    answer: "In the middle of the century the potato crop failed, and Ireland suffered a famine. A million people died from disease and starvation.",
+  },
+   {
+    id: "842",
+    question: "What sort of battle was ‘the Battle of Britain’?",
+    answer: "An aerial battle against the Germans. Hitler wanted to invade Britain, but before sending in troops, Germany needed to control the air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, called ‘the Battle of Britain’, in the summer of 1940.",
+  },
+   {
+    id: "843",
+    question: "Who is in charge of appointing the local Chief Constable?",
+    answer: "PCCs (Police and Crime Commissioners) set local police priorities and the local policing budget. They also appoint the local Chief Constable.",
+  },
+  {
+    id: "844",
+    question: "How many British died on the first day alone of the Battle of Somme?",
+    answer: "The British attack of the Somme in July 1916, resulted in about 60,000 British casualties on the first day alone.",
+  },
+  {
+    id: "845",
+    question: "What do Sir Terence Conran, Clarice Cliff and Thomas Chippendale have in common?",
+    answer: "Britain has produced many great designers, from Thomas Chippendale (who designed furniture in the 18th century) to Clarice Cliff (who designed Art Deco ceramics) to Sir Terence Conran (a 20th-century interior designer).",
+  },
+  {
+    id: "846",
+    question: "Cities in Wales?",
+    answer: "Cardiff, Swansea, Newport",
+  },
+  {
+    id: "847",
+    question: "Which Saxon king of England was killed at the Battle of Hastings in 1066?",
+    answer: "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle.",
+  },
+   {
+    id: "848",
+    question: "As a permanent resident or citizen of the UK you should:",
+    answer: "If you wish to be a permanent resident or citizen of the UK, you should: respect and obey the law, respect the rights of others, including their right to their own opinions, treat others with fairness, look after yourself and your family and look after the area in which you live and the environment.",
+  },
+  {
+    id: "849",
+    question: "Women in Britain today make up about one third of the workforce.",
+    answer: "False. Women in Britain today make up about half of the workforce.",
+  },
+  {
+    id: "850",
+    question: "The evacuation of British and French soldiers from France in a huge naval operation during WWII gave rise to which phrase:",
+    answer: "During WWII as France fell, the British decided to evacuate British and French soldiers from France in a huge naval operation. Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk. The evacuation gave rise to the phrase ‘the Dunkirk spirit’.",
+  },
+   {
+    id: "851",
+    question: "Which programme helps 16 and 17 year-olds develop their skills and are part in community projects?",
+    answer: "The National Citizen Service programme gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
+  },
+  {
+    id: "852",
+    question: "Who wrote the books ‘Pride and Prejudice’ and ‘Sense and Sensibility’?",
+    answer: "Jane Austen (1775-1817) was an English novelist. Her books include Pride and Prejudice and Sense and Sensibility.",
+  },
+  {
+    id: "853",
+    question: "In which city is the Millennium Stadium located?",
+    answer: "The Millennium Stadium is located in Cardiff.",
+  },
+  {
+    id: "854",
+    question: "Who lost a lot of power and influence after the Battle of Culloden in 1746?",
+    answer: "The clans lost a lot of their power and influence after Culloden. Chieftains became landlords if they had the favour of the English king, and clansmen became tenants who had to pay for the land they used.The Jacobite supporters of Charles Edward Stuart (Bonnie Prince Charlie) lost a lot of power and influence after the Battle of Culloden in 1746.",
+  },
+  {
+    id: "855",
+    question: "What UK landmark was voted as Britain’s favourite view in 2007?",
+    answer: "In 2007, television viewers voted Wastwater as Britain’s favourite view.",
+  },
+  {
+    id: "856",
+    question: "When did the development of a free press take place?",
+    answer: "From 1695, newspapers were allowed to operate without a government licence. Increasing numbers of newspapers began to be published.",
+  },
+   {
+    id: "857",
+    question: "Which was the last successful foreign invasion of England?",
+    answer: "The Norman Conquest was the last successful foreign invasion of England and led to many changes in government and social structures in England.",
+  },
+   {
+    id: "858",
+    question: "Who was Richard Austen Butler?",
+    answer: "Richard Austen Butler (later Lord Butler) became a Conservative MP in 1923 and held several positions before becoming responsible for education in 1941.",
+  },
+  {
+    id: "859",
+    question: "Which TWO British poets wrote about their experiences in the WWI?",
+    answer: "Wilfred Owen and Siegfried Sassoon were inspired to write about their experiences in the First World War.",
+  },
+   {
+    id: "860",
+    question: "If you are found driving while exceeding the alcohol limit you will:",
+    answer: "If you are found driving while exceeding the alcohol limit you will be arrested.",
+  },
+  {
+    id: "861",
+    question: "Which TWO  are core values of a civil servant?",
+    answer: "The core values of civil servants include: integrity, honesty, objectivity and impartiality (including being politically neutral).",
+  },
+  {
+    id: "862",
+    question: "What is the name of the first Danish king to rule in England?",
+    answer: "Anglo-Saxon kings continued to rule what is now England, except for a short period when there were Danish kings. The first of these was Cnut, also named Canute.",
+  },
+  {
+    id: "863",
+    question: "It is a civil offence to owe money to someone and you might be taken to court.",
+    answer: "Owing money to someone is a civil offence.",
+  },
+  {
+    id: "864",
+    question: "In which country of the British Empire did the Boer War take place?",
+    answer: "The Boer War of 1899 to 1902 made the discussions about the future of the Empire more urgent. The British went to war in South Africa with settlers from the Netherlands called the Boers.",
+  },
+   {
+    id: "865",
+    question: "Robert Louis Stevenson, Graham Greene and Sir Kingsley Amis were British writers.",
+    answer: "This statement is True.",
+  },
+  {
+    id: "866",
+    question: "",
+    answer: "",
+  },
+  {
+    id: "867",
+    question: "Which new industries developed in the UK during the Great Depression (choose 2 answers)?",
+    answer: "In 1929, the world entered the ‘Great Depression’ and some parts of the UK suffered mass unemployment. The effects of the depression of the 1930s were felt differently in different parts of the UK. The traditional heavy industries such as shipbuilding were badly affected but new industries – including the automobile and aviation industries – developed.",
+  },
+  
+  {
+    id: "868",
+    question: "When did the English civil war start?",
+    answer: "Civil war between the king and Parliament could not now be avoided and began in 1642.",
+  },
+   {
+    id: "869",
+    question: "During the 19th century, the UK was the world’s major producer of which THREE materials?",
+    answer: "British industry led the world in the 19th century. The UK produced more that half of the world’s iron, coal and cotton cloth.",
+  },
+  {
+    id: "870",
+    question: "Which TWO of the following British athletes have won gold medals in the Olympic Games?",
+    answer: "Dame Kelly Holmes and Jessica Enis won gold medals in the Olympic Games.",
+  },
+  {
+    id: "871",
+    question: "Who introduced ‘shampooing’ in Britain?",
+    answer: "Sake Dean Mahomet and his wife also introduced ‘shampooing’, the Indian art of head massage, to Britain.",
+  },
+  {
+    id: "872",
+    question: "To be able to vote in England, you have to register at your local council electoral registration office.",
+    answer: "This statement is true.",
+  },
+  {
+    id: "873",
+    question: "What are the key roles of the governors and school boards? ",
+    answer: "Governors and school boards have an important part to play in raising school standards. They have three key roles: setting the strategic direction of the school, ensuring accountability and monitoring and evaluating school performance.",
+  },
+   {
+    id: "874",
+    question: "Why is it important to recycle?",
+    answer: "It is important to recycle as much of your waste as you can. Using recycled materials to make new products uses less energy and means that we do not need to extract more raw materials from the earth. It also means that less rubbish is created, so the amount being put into landfill is reduced.",
+  },
+  {
+    id: "875",
+    question: "In Northern Ireland, a newly qualified driver must display an ____ plate for one year after passing the test.",
+    answer: "In Northern Ireland, a newly qualified driver must display an ‘R’ plate (for restricted driver) for one year after passing the test.",
+  },
+  {
+    id: "876",
+    question: "Prince William is also known as:",
+    answer: "Prince William is also known as the Prince of Wales.",
+  },
+  {
+    id: "",
+    question: "",
+    answer: "",
+  },
+
 ];
 
-export default allFlashcards;
+export default allFlashcards;.
